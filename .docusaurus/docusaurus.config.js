@@ -32,10 +32,6 @@ export default {
         },
         "theme": {
           "customCss": "/Users/cqshinn/go/1.16.6/src/github.com/ava-labs/roi/ezchain-documents/src/css/custom.css"
-        },
-        "googleAnalytics": {
-          "trackingID": "UA-126268251-10",
-          "anonymizeIP": true
         }
       }
     ]
