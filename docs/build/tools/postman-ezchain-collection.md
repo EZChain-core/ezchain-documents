@@ -38,7 +38,7 @@ We're ready to import the collection. On the header of the Worskspaces tab selec
 There, in the URL input field paste the link to the collection:
 
 ```text
-https://raw.githubusercontent.com/EZChain-core/ezchain-postman-collection/master/EZChain.postman_collection.json
+https://raw.githubusercontent.com/EZChain-core/ezchain-postman-collection/master/Ezchain.postman_collection.json
 ```
 
 Postman will recognize the format of the file content and offer to import the file as a collection. Complete the import. Now you will have EZChain collection in your Workspace.
@@ -50,7 +50,7 @@ Postman will recognize the format of the file content and offer to import the fi
 Next, we have to import the environment variables. Again, the header of the Worskspaces tab select `New` and switch to `Link` tab. this time, paste the link to the environment JSON:
 
 ```text
-https://raw.githubusercontent.com/EZChain-core/ezchain-postman-collection/master/Example-EZChain-Environment.postman_environment.json
+https://raw.githubusercontent.com/EZChain-core/ezchain-postman-collection/master/Example-Ezchain-Environment.postman_environment.json
 ```
 
 Postman will recognize the format of the file:
