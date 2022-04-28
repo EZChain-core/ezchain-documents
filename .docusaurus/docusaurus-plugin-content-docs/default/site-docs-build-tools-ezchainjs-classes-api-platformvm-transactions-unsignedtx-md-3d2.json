@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/classes/api_platformvm_transactions.unsignedtx",
+  "id": "build/tools/ezchainjs/classes/api_platformvm_transactions.unsignedtx",
+  "title": "api_platformvm_transactions.unsignedtx",
+  "description": "ezchain › API-PlatformVM-Transactions › UnsignedTx",
+  "source": "@site/docs/build/tools/ezchainjs/classes/api_platformvm_transactions.unsignedtx.md",
+  "sourceDirName": "build/tools/ezchainjs/classes",
+  "slug": "/build/tools/ezchainjs/classes/api_platformvm_transactions.unsignedtx",
+  "permalink": "/build/tools/ezchainjs/classes/api_platformvm_transactions.unsignedtx",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/classes/api_platformvm_transactions.unsignedtx.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

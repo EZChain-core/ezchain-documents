@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/platformvm_interfaces.getrewardutxosresponse",
+  "id": "build/tools/ezchainjs/interfaces/platformvm_interfaces.getrewardutxosresponse",
+  "title": "platformvm_interfaces.getrewardutxosresponse",
+  "description": "ezchain › PlatformVM-Interfaces › GetRewardUTXOsResponse",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.getrewardutxosresponse.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.getrewardutxosresponse",
+  "permalink": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.getrewardutxosresponse",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.getrewardutxosresponse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

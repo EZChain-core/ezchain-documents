@@ -1,0 +1,18 @@
+{
+  "unversionedId": "learn/ezchain-bridge-faq",
+  "id": "learn/ezchain-bridge-faq",
+  "title": "EZChain Bridge (AB) FAQ",
+  "description": "The EZChain Bridge (AB) can be used to transfer ERC20 tokens from Ethereum to EZChain's C-Chain and vice versa. This document answers common questions about the bridge.",
+  "source": "@site/docs/learn/ezchain-bridge-faq.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/ezchain-bridge-faq",
+  "permalink": "/learn/ezchain-bridge-faq",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/learn/ezchain-bridge-faq.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "description": "The EZChain Bridge (AB) can be used to transfer ERC20 tokens from Ethereum to EZChain's C-Chain and vice versa. This document answers common questions about the bridge."
+  }
+}

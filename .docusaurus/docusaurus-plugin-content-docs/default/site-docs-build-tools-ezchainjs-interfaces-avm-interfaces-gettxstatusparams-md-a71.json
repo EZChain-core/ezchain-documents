@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.gettxstatusparams",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.gettxstatusparams",
+  "title": "avm_interfaces.gettxstatusparams",
+  "description": "ezchain › AVM-Interfaces › GetTxStatusParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.gettxstatusparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.gettxstatusparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.gettxstatusparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.gettxstatusparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

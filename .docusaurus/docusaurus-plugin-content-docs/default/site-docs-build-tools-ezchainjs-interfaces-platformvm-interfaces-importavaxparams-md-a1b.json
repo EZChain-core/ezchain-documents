@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/platformvm_interfaces.importavaxparams",
+  "id": "build/tools/ezchainjs/interfaces/platformvm_interfaces.importavaxparams",
+  "title": "platformvm_interfaces.importavaxparams",
+  "description": "ezchain › PlatformVM-Interfaces › ImportEZCParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.importavaxparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.importavaxparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.importavaxparams",
+  "editUrl": "https://github.com/EZChain-core/EZChain-docs/edit/master/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.importavaxparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

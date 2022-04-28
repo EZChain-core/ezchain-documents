@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.createfixedcapassetparams",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.createfixedcapassetparams",
+  "title": "avm_interfaces.createfixedcapassetparams",
+  "description": "ezchain › AVM-Interfaces › CreateFixedCapAssetParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.createfixedcapassetparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.createfixedcapassetparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.createfixedcapassetparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.createfixedcapassetparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

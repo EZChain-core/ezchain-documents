@@ -1,0 +1,26 @@
+{
+  "unversionedId": "build/tutorials/platform/subnets/wagmi",
+  "id": "build/tutorials/platform/subnets/wagmi",
+  "title": "WAGMI Subnet Demo",
+  "description": "The WAGMI (\"We're All Going to Make It\") Subnet Demo is a high throughput testbed for EVM (Ethereum Virtual Machine) optimizations. It is parameterized to run at a factor more capacity than Fuji/Mainnet C-Chain and will be used to experiment with release candidates before they make it into an official coreth release.",
+  "source": "@site/docs/build/tutorials/platform/subnets/wagmi.md",
+  "sourceDirName": "build/tutorials/platform/subnets",
+  "slug": "/build/tutorials/platform/subnets/wagmi",
+  "permalink": "/build/tutorials/platform/subnets/wagmi",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/platform/subnets/wagmi.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spaces: Experimental Implementation",
+    "permalink": "/build/tutorials/platform/subnets/spaces"
+  },
+  "next": {
+    "title": "Deploying Subnet with EVM Based Blockchain using EZChainJS",
+    "permalink": "/build/tutorials/platform/subnets/create-a-evm-blockchain-on-subnet-with-ezchainjs"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/evm_interfaces.exportavaxparams",
+  "id": "build/tools/ezchainjs/interfaces/evm_interfaces.exportavaxparams",
+  "title": "evm_interfaces.exportavaxparams",
+  "description": "ezchain › EVM-Interfaces › ExportEZCParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/evm_interfaces.exportavaxparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/evm_interfaces.exportavaxparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/evm_interfaces.exportavaxparams",
+  "editUrl": "https://github.com/EZChain-core/EZChain-docs/edit/master/docs/build/tools/ezchainjs/interfaces/evm_interfaces.exportavaxparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "build/tutorials/nodes-and-staking/upgrade-your-avalanchego-node",
+  "id": "build/tutorials/nodes-and-staking/upgrade-your-avalanchego-node",
+  "title": "Upgrade Your EZChainGo Node",
+  "description": "<Iframe url=\"https://www.youtube.com/embed/o4Fww-sHoaQ\"",
+  "source": "@site/docs/build/tutorials/nodes-and-staking/upgrade-your-avalanchego-node.mdx",
+  "sourceDirName": "build/tutorials/nodes-and-staking",
+  "slug": "/build/tutorials/nodes-and-staking/upgrade-your-avalanchego-node",
+  "permalink": "/build/tutorials/nodes-and-staking/upgrade-your-avalanchego-node",
+  "editUrl": "https://github.com/EZChain-core/EZChain-docs/edit/master/docs/build/tutorials/nodes-and-staking/upgrade-your-avalanchego-node.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Stake EZC, by Validating or Delegating, with the EZChain Wallet",
+    "permalink": "/build/tutorials/nodes-and-staking/staking-ezc-by-validating-or-delegating-with-the-ezchain-wallet"
+  },
+  "next": {
+    "title": "Run an EZChain Node with Microsoft Azure",
+    "permalink": "/build/tutorials/nodes-and-staking/set-up-an-ezchain-node-with-microsoft-azure"
+  }
+}

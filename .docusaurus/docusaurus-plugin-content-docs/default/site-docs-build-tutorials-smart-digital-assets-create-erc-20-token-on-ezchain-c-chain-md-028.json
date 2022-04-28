@@ -1,0 +1,25 @@
+{
+  "unversionedId": "build/tutorials/smart-digital-assets/create-erc-20-token-on-ezchain-c-chain",
+  "id": "build/tutorials/smart-digital-assets/create-erc-20-token-on-ezchain-c-chain",
+  "title": "Create an ERC-20 Token Using Solidity",
+  "description": "ERC-20 tokens are the most fundamental and essential concept in Ethereum. This same token standard is adopted in the EZChain ecosystem.",
+  "source": "@site/docs/build/tutorials/smart-digital-assets/create-erc-20-token-on-ezchain-c-chain.md",
+  "sourceDirName": "build/tutorials/smart-digital-assets",
+  "slug": "/build/tutorials/smart-digital-assets/create-erc-20-token-on-ezchain-c-chain",
+  "permalink": "/build/tutorials/smart-digital-assets/create-erc-20-token-on-ezchain-c-chain",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/smart-digital-assets/create-erc-20-token-on-ezchain-c-chain.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "ERC-20 tokens are the most fundamental and essential concept in Ethereum. This same token standard is adopted in the EZChain ecosystem."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Fixed-Cap Asset",
+    "permalink": "/build/tutorials/smart-digital-assets/create-a-fix-cap-asset"
+  },
+  "next": {
+    "title": "Create an NFT (Part 1)",
+    "permalink": "/build/tutorials/smart-digital-assets/creating-a-nft-part-1"
+  }
+}

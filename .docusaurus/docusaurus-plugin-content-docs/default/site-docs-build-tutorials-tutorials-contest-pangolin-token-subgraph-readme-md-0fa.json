@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tutorials/tutorials-contest/pangolin-token-subgraph/README",
+  "id": "build/tutorials/tutorials-contest/pangolin-token-subgraph/README",
+  "title": "README",
+  "description": "How to Use The Graph to Query EZChain Data",
+  "source": "@site/docs/build/tutorials/tutorials-contest/pangolin-token-subgraph/README.md",
+  "sourceDirName": "build/tutorials/tutorials-contest/pangolin-token-subgraph",
+  "slug": "/build/tutorials/tutorials-contest/pangolin-token-subgraph/",
+  "permalink": "/build/tutorials/tutorials-contest/pangolin-token-subgraph/",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/tutorials-contest/pangolin-token-subgraph/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

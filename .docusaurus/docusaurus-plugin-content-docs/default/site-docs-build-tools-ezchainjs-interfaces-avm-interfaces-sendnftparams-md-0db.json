@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.sendnftparams",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.sendnftparams",
+  "title": "avm_interfaces.sendnftparams",
+  "description": "ezchain › AVM-Interfaces › SendNFTParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.sendnftparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.sendnftparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.sendnftparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.sendnftparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

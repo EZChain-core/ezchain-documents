@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/platformvm_interfaces.getstakeparams",
+  "id": "build/tools/ezchainjs/interfaces/platformvm_interfaces.getstakeparams",
+  "title": "platformvm_interfaces.getstakeparams",
+  "description": "ezchain › PlatformVM-Interfaces › GetStakeParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.getstakeparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.getstakeparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.getstakeparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.getstakeparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

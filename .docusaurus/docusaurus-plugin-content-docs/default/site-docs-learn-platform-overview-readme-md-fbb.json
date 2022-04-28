@@ -1,0 +1,27 @@
+{
+  "unversionedId": "learn/platform-overview/README",
+  "id": "learn/platform-overview/README",
+  "title": "EZChain Platform Overview",
+  "description": "EZChain features 3 built-in blockchains which includes Exchange Chain (X-Chain), Platform Chain (P-Chain), and Contract Chain (C-Chain).  More info here.",
+  "source": "@site/docs/learn/platform-overview/README.md",
+  "sourceDirName": "learn/platform-overview",
+  "slug": "/learn/platform-overview/",
+  "permalink": "/learn/platform-overview/",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/learn/platform-overview/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "description": "EZChain features 3 built-in blockchains which includes Exchange Chain (X-Chain), Platform Chain (P-Chain), and Contract Chain (C-Chain).  More info here."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/learn/getting-started"
+  },
+  "next": {
+    "title": "EZChain Blockchain Consensus",
+    "permalink": "/learn/platform-overview/ezchain-consensus"
+  }
+}

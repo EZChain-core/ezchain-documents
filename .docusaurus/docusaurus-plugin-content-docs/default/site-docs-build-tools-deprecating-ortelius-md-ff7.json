@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/deprecating-ortelius",
+  "id": "build/tools/deprecating-ortelius",
+  "title": "Replacing Ortelius with the Index APIs",
+  "description": "This guide explains how to replace usage of the Ortelius API with other APIs, including EZChainGo's Index API. Ortelius is deprecated. You should use other EZChainGo APIs to get the information that you used to get from Ortelius.",
+  "source": "@site/docs/build/tools/deprecating-ortelius.md",
+  "sourceDirName": "build/tools",
+  "slug": "/build/tools/deprecating-ortelius",
+  "permalink": "/build/tools/deprecating-ortelius",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/deprecating-ortelius.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

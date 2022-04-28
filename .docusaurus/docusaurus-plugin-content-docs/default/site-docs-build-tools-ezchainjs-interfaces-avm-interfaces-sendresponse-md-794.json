@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.sendresponse",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.sendresponse",
+  "title": "avm_interfaces.sendresponse",
+  "description": "ezchain › AVM-Interfaces › SendResponse",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.sendresponse.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.sendresponse",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.sendresponse",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.sendresponse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

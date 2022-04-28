@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/tutorials/smart-contracts/using-hardhat-with-the-ezchain-c-chain",
+  "id": "build/tutorials/smart-contracts/using-hardhat-with-the-ezchain-c-chain",
+  "title": "Using Hardhat with the EZChain C-Chain",
+  "description": "Introduction",
+  "source": "@site/docs/build/tutorials/smart-contracts/using-hardhat-with-the-ezchain-c-chain.md",
+  "sourceDirName": "build/tutorials/smart-contracts",
+  "slug": "/build/tutorials/smart-contracts/using-hardhat-with-the-ezchain-c-chain",
+  "permalink": "/build/tutorials/smart-contracts/using-hardhat-with-the-ezchain-c-chain",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/smart-contracts/using-hardhat-with-the-ezchain-c-chain.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy a Smart Contract on EZChain Using Remix and MetaMask",
+    "permalink": "/build/tutorials/smart-contracts/deploy-a-smart-contract-on-ezchain-using-remix-and-metamask"
+  },
+  "next": {
+    "title": "Using Truffle with the EZChain C-Chain",
+    "permalink": "/build/tutorials/smart-contracts/using-truffle-with-the-ezchain-c-chain"
+  }
+}

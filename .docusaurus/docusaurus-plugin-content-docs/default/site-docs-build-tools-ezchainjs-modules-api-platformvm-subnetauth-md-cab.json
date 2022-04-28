@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/api_platformvm_subnetauth",
+  "id": "build/tools/ezchainjs/modules/api_platformvm_subnetauth",
+  "title": "api_platformvm_subnetauth",
+  "description": "ezchain › API-PlatformVM-SubnetAuth",
+  "source": "@site/docs/build/tools/ezchainjs/modules/api_platformvm_subnetauth.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/api_platformvm_subnetauth",
+  "permalink": "/build/tools/ezchainjs/modules/api_platformvm_subnetauth",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/api_platformvm_subnetauth.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/common_transactions",
+  "id": "build/tools/ezchainjs/modules/common_transactions",
+  "title": "common_transactions",
+  "description": "ezchain › Common-Transactions",
+  "source": "@site/docs/build/tools/ezchainjs/modules/common_transactions.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/common_transactions",
+  "permalink": "/build/tools/ezchainjs/modules/common_transactions",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/common_transactions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

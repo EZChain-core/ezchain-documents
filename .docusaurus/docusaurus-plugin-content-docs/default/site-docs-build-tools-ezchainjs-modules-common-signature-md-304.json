@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/common_signature",
+  "id": "build/tools/ezchainjs/modules/common_signature",
+  "title": "common_signature",
+  "description": "ezchain › Common-Signature",
+  "source": "@site/docs/build/tools/ezchainjs/modules/common_signature.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/common_signature",
+  "permalink": "/build/tools/ezchainjs/modules/common_signature",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/common_signature.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

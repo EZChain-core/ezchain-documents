@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.listaddressesparams",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.listaddressesparams",
+  "title": "avm_interfaces.listaddressesparams",
+  "description": "ezchain › AVM-Interfaces › ListAddressesParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.listaddressesparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.listaddressesparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.listaddressesparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.listaddressesparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

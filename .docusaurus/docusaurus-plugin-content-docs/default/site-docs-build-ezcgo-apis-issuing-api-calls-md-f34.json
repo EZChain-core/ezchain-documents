@@ -1,0 +1,26 @@
+{
+  "unversionedId": "build/ezcgo-apis/issuing-api-calls",
+  "id": "build/ezcgo-apis/issuing-api-calls",
+  "title": "Issuing API Calls",
+  "description": "This guide explains how to make calls to APIs exposed by EZChain nodes.",
+  "source": "@site/docs/build/ezcgo-apis/issuing-api-calls.md",
+  "sourceDirName": "build/ezcgo-apis",
+  "slug": "/build/ezcgo-apis/issuing-api-calls",
+  "permalink": "/build/ezcgo-apis/issuing-api-calls",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/ezcgo-apis/issuing-api-calls.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/build/ezcgo-apis/"
+  },
+  "next": {
+    "title": "Platform Chain (P-Chain) API",
+    "permalink": "/build/ezcgo-apis/p-chain"
+  }
+}

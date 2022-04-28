@@ -1,0 +1,25 @@
+{
+  "unversionedId": "build/tutorials/platform/subnets/subnet-faq",
+  "id": "build/tutorials/platform/subnets/subnet-faq",
+  "title": "Subnet FAQ",
+  "description": "Work in Progress",
+  "source": "@site/docs/build/tutorials/platform/subnets/subnet-faq.md",
+  "sourceDirName": "build/tutorials/platform/subnets",
+  "slug": "/build/tutorials/platform/subnets/subnet-faq",
+  "permalink": "/build/tutorials/platform/subnets/subnet-faq",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/platform/subnets/subnet-faq.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "Description": "FAQ for subnet on EZChain network."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Run a Node on DFK Subnet",
+    "permalink": "/build/tutorials/platform/subnets/setup-dfk-node"
+  },
+  "next": {
+    "title": "Create a Local Test Network",
+    "permalink": "/build/tutorials/platform/create-a-local-test-network"
+  }
+}

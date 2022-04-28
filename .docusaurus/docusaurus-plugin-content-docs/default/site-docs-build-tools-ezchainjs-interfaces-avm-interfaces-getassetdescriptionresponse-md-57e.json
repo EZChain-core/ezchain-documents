@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.getassetdescriptionresponse",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.getassetdescriptionresponse",
+  "title": "avm_interfaces.getassetdescriptionresponse",
+  "description": "ezchain › AVM-Interfaces › GetAssetDescriptionResponse",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.getassetdescriptionresponse.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.getassetdescriptionresponse",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.getassetdescriptionresponse",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.getassetdescriptionresponse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

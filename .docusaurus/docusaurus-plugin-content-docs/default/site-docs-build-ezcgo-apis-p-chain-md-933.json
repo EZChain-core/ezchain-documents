@@ -1,0 +1,26 @@
+{
+  "unversionedId": "build/ezcgo-apis/p-chain",
+  "id": "build/ezcgo-apis/p-chain",
+  "title": "Platform Chain (P-Chain) API",
+  "description": "This API allows clients to interact with the P-Chain, which maintains EZChain’s validator set and handles blockchain creation.",
+  "source": "@site/docs/build/ezcgo-apis/p-chain.md",
+  "sourceDirName": "build/ezcgo-apis",
+  "slug": "/build/ezcgo-apis/p-chain",
+  "permalink": "/build/ezcgo-apis/p-chain",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/ezcgo-apis/p-chain.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Issuing API Calls",
+    "permalink": "/build/ezcgo-apis/issuing-api-calls"
+  },
+  "next": {
+    "title": "Contract Chain (C-Chain) API",
+    "permalink": "/build/ezcgo-apis/c-chain"
+  }
+}

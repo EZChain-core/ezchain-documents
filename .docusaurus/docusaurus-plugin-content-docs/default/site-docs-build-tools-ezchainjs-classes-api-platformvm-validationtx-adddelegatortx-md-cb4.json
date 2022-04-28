@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/classes/api_platformvm_validationtx.adddelegatortx",
+  "id": "build/tools/ezchainjs/classes/api_platformvm_validationtx.adddelegatortx",
+  "title": "api_platformvm_validationtx.adddelegatortx",
+  "description": "ezchain › API-PlatformVM-ValidationTx › AddDelegatorTx",
+  "source": "@site/docs/build/tools/ezchainjs/classes/api_platformvm_validationtx.adddelegatortx.md",
+  "sourceDirName": "build/tools/ezchainjs/classes",
+  "slug": "/build/tools/ezchainjs/classes/api_platformvm_validationtx.adddelegatortx",
+  "permalink": "/build/tools/ezchainjs/classes/api_platformvm_validationtx.adddelegatortx",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/classes/api_platformvm_validationtx.adddelegatortx.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/api_metrics",
+  "id": "build/tools/ezchainjs/modules/api_metrics",
+  "title": "api_metrics",
+  "description": "ezchain › API-Metrics",
+  "source": "@site/docs/build/tools/ezchainjs/modules/api_metrics.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/api_metrics",
+  "permalink": "/build/tools/ezchainjs/modules/api_metrics",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/api_metrics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

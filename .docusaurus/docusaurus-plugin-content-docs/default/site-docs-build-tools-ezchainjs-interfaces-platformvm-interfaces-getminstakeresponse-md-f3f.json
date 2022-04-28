@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/platformvm_interfaces.getminstakeresponse",
+  "id": "build/tools/ezchainjs/interfaces/platformvm_interfaces.getminstakeresponse",
+  "title": "platformvm_interfaces.getminstakeresponse",
+  "description": "ezchain › PlatformVM-Interfaces › GetMinStakeResponse",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.getminstakeresponse.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.getminstakeresponse",
+  "permalink": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.getminstakeresponse",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.getminstakeresponse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

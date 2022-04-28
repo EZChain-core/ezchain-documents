@@ -1,0 +1,25 @@
+{
+  "unversionedId": "build/tutorials/smart-digital-assets/creating-a-nft-part-1",
+  "id": "build/tutorials/smart-digital-assets/creating-a-nft-part-1",
+  "title": "Create an NFT (Part 1)",
+  "description": "EZChain also supports non-fungible tokens (NFTs). By definition, each NFT is unique and not perfectly interchangeable for any other NFT.",
+  "source": "@site/docs/build/tutorials/smart-digital-assets/creating-a-nft-part-1.md",
+  "sourceDirName": "build/tutorials/smart-digital-assets",
+  "slug": "/build/tutorials/smart-digital-assets/creating-a-nft-part-1",
+  "permalink": "/build/tutorials/smart-digital-assets/creating-a-nft-part-1",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/smart-digital-assets/creating-a-nft-part-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "EZChain also supports non-fungible tokens (NFTs). By definition, each NFT is unique and not perfectly interchangeable for any other NFT."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create an ERC-20 Token Using Solidity",
+    "permalink": "/build/tutorials/smart-digital-assets/create-erc-20-token-on-ezchain-c-chain"
+  },
+  "next": {
+    "title": "Create a Variable-Cap Asset",
+    "permalink": "/build/tutorials/smart-digital-assets/creating-a-variable-cap-asset"
+  }
+}

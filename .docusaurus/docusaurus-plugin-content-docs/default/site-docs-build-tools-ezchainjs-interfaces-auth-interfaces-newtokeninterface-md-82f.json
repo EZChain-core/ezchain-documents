@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/auth_interfaces.newtokeninterface",
+  "id": "build/tools/ezchainjs/interfaces/auth_interfaces.newtokeninterface",
+  "title": "auth_interfaces.newtokeninterface",
+  "description": "ezchain › Auth-Interfaces › NewTokenInterface",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/auth_interfaces.newtokeninterface.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/auth_interfaces.newtokeninterface",
+  "permalink": "/build/tools/ezchainjs/interfaces/auth_interfaces.newtokeninterface",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/auth_interfaces.newtokeninterface.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

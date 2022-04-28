@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/src_common",
+  "id": "build/tools/ezchainjs/modules/src_common",
+  "title": "src_common",
+  "description": "ezchain › src/common",
+  "source": "@site/docs/build/tools/ezchainjs/modules/src_common.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/src_common",
+  "permalink": "/build/tools/ezchainjs/modules/src_common",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/src_common.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

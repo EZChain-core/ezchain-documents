@@ -1,0 +1,30 @@
+[ezchain](../README.md) › [Info-Interfaces](../modules/info_interfaces.md) › [GetTxFeeResponse](info_interfaces.gettxfeeresponse.md)
+
+# Interface: GetTxFeeResponse
+
+## Hierarchy
+
+* **GetTxFeeResponse**
+
+## Index
+
+### Properties
+
+* [creationTxFee](info_interfaces.gettxfeeresponse.md#creationtxfee)
+* [txFee](info_interfaces.gettxfeeresponse.md#txfee)
+
+## Properties
+
+###  creationTxFee
+
+• **creationTxFee**: *BN*
+
+*Defined in [src/apis/info/interfaces.ts:31](https://github.com/EZChain-core/ezchainjs/blob/5511161/src/apis/info/interfaces.ts#L31)*
+
+___
+
+###  txFee
+
+• **txFee**: *BN*
+
+*Defined in [src/apis/info/interfaces.ts:30](https://github.com/EZChain-core/ezchainjs/blob/5511161/src/apis/info/interfaces.ts#L30)*

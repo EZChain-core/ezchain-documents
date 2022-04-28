@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/utils_base58",
+  "id": "build/tools/ezchainjs/modules/utils_base58",
+  "title": "utils_base58",
+  "description": "ezchain › Utils-Base58",
+  "source": "@site/docs/build/tools/ezchainjs/modules/utils_base58.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/utils_base58",
+  "permalink": "/build/tools/ezchainjs/modules/utils_base58",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/utils_base58.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

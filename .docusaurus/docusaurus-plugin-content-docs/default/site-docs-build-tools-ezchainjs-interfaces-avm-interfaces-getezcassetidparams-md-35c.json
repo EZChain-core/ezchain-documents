@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.getezcassetidparams",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.getezcassetidparams",
+  "title": "avm_interfaces.getezcassetidparams",
+  "description": "ezchain › AVM-Interfaces › GetEZCAssetIDParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.getezcassetidparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.getezcassetidparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.getezcassetidparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.getezcassetidparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

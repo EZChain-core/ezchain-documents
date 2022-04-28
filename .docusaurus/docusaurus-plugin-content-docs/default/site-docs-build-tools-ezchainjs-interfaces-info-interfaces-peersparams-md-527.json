@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/info_interfaces.peersparams",
+  "id": "build/tools/ezchainjs/interfaces/info_interfaces.peersparams",
+  "title": "info_interfaces.peersparams",
+  "description": "ezchain › Info-Interfaces › PeersParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/info_interfaces.peersparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/info_interfaces.peersparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/info_interfaces.peersparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/info_interfaces.peersparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

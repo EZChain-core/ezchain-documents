@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/tutorials/smart-contracts/verify-smart-contract-using-hardhat-and-explorer",
+  "id": "build/tutorials/smart-contracts/verify-smart-contract-using-hardhat-and-explorer",
+  "title": "verify-smart-contract-using-hardhat-and-explorer",
+  "description": "<!-- # Verifying Smart Contracts Using Hardhat and Snowtrace",
+  "source": "@site/docs/build/tutorials/smart-contracts/verify-smart-contract-using-hardhat-and-explorer.md",
+  "sourceDirName": "build/tutorials/smart-contracts",
+  "slug": "/build/tutorials/smart-contracts/verify-smart-contract-using-hardhat-and-explorer",
+  "permalink": "/build/tutorials/smart-contracts/verify-smart-contract-using-hardhat-and-explorer",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/smart-contracts/verify-smart-contract-using-hardhat-and-explorer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Using Truffle with the EZChain C-Chain",
+    "permalink": "/build/tutorials/smart-contracts/using-truffle-with-the-ezchain-c-chain"
+  },
+  "next": {
+    "title": "Verifying Smart Contracts with Truffle Verify",
+    "permalink": "/build/tutorials/smart-contracts/verify-smart-contracts-with-truffle-verify"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/index_interfaces.getcontainerbyidresponse",
+  "id": "build/tools/ezchainjs/interfaces/index_interfaces.getcontainerbyidresponse",
+  "title": "index_interfaces.getcontainerbyidresponse",
+  "description": "ezchain › Index-Interfaces › GetContainerByIDResponse",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/index_interfaces.getcontainerbyidresponse.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/index_interfaces.getcontainerbyidresponse",
+  "permalink": "/build/tools/ezchainjs/interfaces/index_interfaces.getcontainerbyidresponse",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/index_interfaces.getcontainerbyidresponse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

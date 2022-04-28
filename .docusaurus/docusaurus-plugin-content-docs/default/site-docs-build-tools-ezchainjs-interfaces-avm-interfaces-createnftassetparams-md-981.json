@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.createnftassetparams",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.createnftassetparams",
+  "title": "avm_interfaces.createnftassetparams",
+  "description": "ezchain › AVM-Interfaces › CreateNFTAssetParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.createnftassetparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.createnftassetparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.createnftassetparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.createnftassetparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/tools/ezchainjs/create-an-asset-on-the-x-chain",
+  "id": "build/tools/ezchainjs/create-an-asset-on-the-x-chain",
+  "title": "Create an Asset on the X-Chain",
+  "description": "This example creates an asset on the X-Chain and publishes it to the EZChain platform. The first step in this process is to create an instance of EZChainJS connected to our EZChain platform endpoint of choice. In this example we're using the local network 12345 via EZCsh. The code examples are written in typescript. The script is in full, in both typescript and javascript, after the individual steps. The whole example can be found here.",
+  "source": "@site/docs/build/tools/ezchainjs/create-an-asset-on-the-x-chain.md",
+  "sourceDirName": "build/tools/ezchainjs",
+  "slug": "/build/tools/ezchainjs/create-an-asset-on-the-x-chain",
+  "permalink": "/build/tools/ezchainjs/create-an-asset-on-the-x-chain",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/create-an-asset-on-the-x-chain.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API",
+    "permalink": "/build/tools/ezchainjs/api"
+  },
+  "next": {
+    "title": "Manage X-Chain Keys",
+    "permalink": "/build/tools/ezchainjs/manage-x-chain-keys"
+  }
+}

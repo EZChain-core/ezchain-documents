@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/api_avm_outputs",
+  "id": "build/tools/ezchainjs/modules/api_avm_outputs",
+  "title": "api_avm_outputs",
+  "description": "ezchain › API-AVM-Outputs",
+  "source": "@site/docs/build/tools/ezchainjs/modules/api_avm_outputs.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/api_avm_outputs",
+  "permalink": "/build/tools/ezchainjs/modules/api_avm_outputs",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/api_avm_outputs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

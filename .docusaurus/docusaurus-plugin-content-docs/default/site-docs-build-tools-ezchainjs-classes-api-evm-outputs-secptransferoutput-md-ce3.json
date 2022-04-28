@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/classes/api_evm_outputs.secptransferoutput",
+  "id": "build/tools/ezchainjs/classes/api_evm_outputs.secptransferoutput",
+  "title": "api_evm_outputs.secptransferoutput",
+  "description": "ezchain › API-EVM-Outputs › SECPTransferOutput",
+  "source": "@site/docs/build/tools/ezchainjs/classes/api_evm_outputs.secptransferoutput.md",
+  "sourceDirName": "build/tools/ezchainjs/classes",
+  "slug": "/build/tools/ezchainjs/classes/api_evm_outputs.secptransferoutput",
+  "permalink": "/build/tools/ezchainjs/classes/api_evm_outputs.secptransferoutput",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/classes/api_evm_outputs.secptransferoutput.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

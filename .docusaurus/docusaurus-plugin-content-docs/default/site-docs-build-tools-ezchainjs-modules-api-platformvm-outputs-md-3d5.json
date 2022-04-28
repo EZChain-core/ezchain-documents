@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/api_platformvm_outputs",
+  "id": "build/tools/ezchainjs/modules/api_platformvm_outputs",
+  "title": "api_platformvm_outputs",
+  "description": "ezchain › API-PlatformVM-Outputs",
+  "source": "@site/docs/build/tools/ezchainjs/modules/api_platformvm_outputs.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/api_platformvm_outputs",
+  "permalink": "/build/tools/ezchainjs/modules/api_platformvm_outputs",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/api_platformvm_outputs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

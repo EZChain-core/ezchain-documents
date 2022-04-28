@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/tutorials/platform/subnets/setup-dfk-node",
+  "id": "build/tutorials/platform/subnets/setup-dfk-node",
+  "title": "Run a Node on DFK Subnet",
+  "description": "Introduction",
+  "source": "@site/docs/build/tutorials/platform/subnets/setup-dfk-node.md",
+  "sourceDirName": "build/tutorials/platform/subnets",
+  "slug": "/build/tutorials/platform/subnets/setup-dfk-node",
+  "permalink": "/build/tutorials/platform/subnets/setup-dfk-node",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/platform/subnets/setup-dfk-node.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploying Cross-Chain EVM <-> EVM Bridge",
+    "permalink": "/build/tutorials/platform/subnets/deploying-cross-chain-evm-bridge"
+  },
+  "next": {
+    "title": "Subnet FAQ",
+    "permalink": "/build/tutorials/platform/subnets/subnet-faq"
+  }
+}

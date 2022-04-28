@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/ezchaincore",
+  "id": "build/tools/ezchainjs/modules/ezchaincore",
+  "title": "ezchaincore",
+  "description": "ezchain › EZChainCore",
+  "source": "@site/docs/build/tools/ezchainjs/modules/ezchaincore.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/ezchaincore",
+  "permalink": "/build/tools/ezchainjs/modules/ezchaincore",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/ezchaincore.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

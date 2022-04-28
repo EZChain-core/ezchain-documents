@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.getavaxassetidparams",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.getavaxassetidparams",
+  "title": "avm_interfaces.getavaxassetidparams",
+  "description": "ezchain › AVM-Interfaces › GetEZCAssetIDParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.getavaxassetidparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.getavaxassetidparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.getavaxassetidparams",
+  "editUrl": "https://github.com/EZChain-core/EZChain-docs/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.getavaxassetidparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

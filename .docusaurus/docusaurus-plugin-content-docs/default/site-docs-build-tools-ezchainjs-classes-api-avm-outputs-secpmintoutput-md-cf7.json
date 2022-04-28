@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/classes/api_avm_outputs.secpmintoutput",
+  "id": "build/tools/ezchainjs/classes/api_avm_outputs.secpmintoutput",
+  "title": "api_avm_outputs.secpmintoutput",
+  "description": "ezchain › API-AVM-Outputs › SECPMintOutput",
+  "source": "@site/docs/build/tools/ezchainjs/classes/api_avm_outputs.secpmintoutput.md",
+  "sourceDirName": "build/tools/ezchainjs/classes",
+  "slug": "/build/tools/ezchainjs/classes/api_avm_outputs.secpmintoutput",
+  "permalink": "/build/tools/ezchainjs/classes/api_avm_outputs.secpmintoutput",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/classes/api_avm_outputs.secpmintoutput.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

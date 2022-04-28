@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.gettxparams",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.gettxparams",
+  "title": "avm_interfaces.gettxparams",
+  "description": "ezchain › AVM-Interfaces › GetTxParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.gettxparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.gettxparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.gettxparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.gettxparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

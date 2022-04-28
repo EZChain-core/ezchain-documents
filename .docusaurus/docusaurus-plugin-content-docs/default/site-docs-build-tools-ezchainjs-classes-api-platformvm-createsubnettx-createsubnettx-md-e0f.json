@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/classes/api_platformvm_createsubnettx.createsubnettx",
+  "id": "build/tools/ezchainjs/classes/api_platformvm_createsubnettx.createsubnettx",
+  "title": "api_platformvm_createsubnettx.createsubnettx",
+  "description": "ezchain › API-PlatformVM-CreateSubnetTx › CreateSubnetTx",
+  "source": "@site/docs/build/tools/ezchainjs/classes/api_platformvm_createsubnettx.createsubnettx.md",
+  "sourceDirName": "build/tools/ezchainjs/classes",
+  "slug": "/build/tools/ezchainjs/classes/api_platformvm_createsubnettx.createsubnettx",
+  "permalink": "/build/tools/ezchainjs/classes/api_platformvm_createsubnettx.createsubnettx",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/classes/api_platformvm_createsubnettx.createsubnettx.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/platformvm_interfaces.createblockchainparams",
+  "id": "build/tools/ezchainjs/interfaces/platformvm_interfaces.createblockchainparams",
+  "title": "platformvm_interfaces.createblockchainparams",
+  "description": "ezchain › PlatformVM-Interfaces › CreateBlockchainParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.createblockchainparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.createblockchainparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.createblockchainparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.createblockchainparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

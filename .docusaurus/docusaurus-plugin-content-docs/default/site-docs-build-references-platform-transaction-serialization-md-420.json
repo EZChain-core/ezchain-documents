@@ -1,0 +1,22 @@
+{
+  "unversionedId": "build/references/platform-transaction-serialization",
+  "id": "build/references/platform-transaction-serialization",
+  "title": "Platform Transaction Format",
+  "description": "This file is meant to be the single source of truth for how we serialize transactions in EZChain’s Platform Virtual Machine, aka the Platform Chain or P-Chain. This document uses the primitive serialization format for packing and secp256k1 for cryptographic user identification.",
+  "source": "@site/docs/build/references/platform-transaction-serialization.md",
+  "sourceDirName": "build/references",
+  "slug": "/build/references/platform-transaction-serialization",
+  "permalink": "/build/references/platform-transaction-serialization",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/references/platform-transaction-serialization.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Serialization Primitives",
+    "permalink": "/build/references/serialization-primitives"
+  }
+}

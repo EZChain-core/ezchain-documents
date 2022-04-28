@@ -1,0 +1,27 @@
+{
+  "unversionedId": "build/ezcgo-apis/c-chain",
+  "id": "build/ezcgo-apis/c-chain",
+  "title": "Contract Chain (C-Chain) API",
+  "description": "More information ezc.lable regarding EZChain Go APIs and learning how to interact with the C-Chain.",
+  "source": "@site/docs/build/ezcgo-apis/c-chain.md",
+  "sourceDirName": "build/ezcgo-apis",
+  "slug": "/build/ezcgo-apis/c-chain",
+  "permalink": "/build/ezcgo-apis/c-chain",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/ezcgo-apis/c-chain.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "description": "More information ezc.lable regarding EZChain Go APIs and learning how to interact with the C-Chain.",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Platform Chain (P-Chain) API",
+    "permalink": "/build/ezcgo-apis/p-chain"
+  },
+  "next": {
+    "title": "Exchange Chain (X-Chain) API",
+    "permalink": "/build/ezcgo-apis/x-chain"
+  }
+}

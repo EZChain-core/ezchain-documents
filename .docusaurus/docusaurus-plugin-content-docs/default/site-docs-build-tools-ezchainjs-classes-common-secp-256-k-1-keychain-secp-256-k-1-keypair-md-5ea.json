@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/classes/common_secp256k1keychain.secp256k1keypair",
+  "id": "build/tools/ezchainjs/classes/common_secp256k1keychain.secp256k1keypair",
+  "title": "common_secp256k1keychain.secp256k1keypair",
+  "description": "ezchain › Common-SECP256k1KeyChain › SECP256k1KeyPair",
+  "source": "@site/docs/build/tools/ezchainjs/classes/common_secp256k1keychain.secp256k1keypair.md",
+  "sourceDirName": "build/tools/ezchainjs/classes",
+  "slug": "/build/tools/ezchainjs/classes/common_secp256k1keychain.secp256k1keypair",
+  "permalink": "/build/tools/ezchainjs/classes/common_secp256k1keychain.secp256k1keypair",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/classes/common_secp256k1keychain.secp256k1keypair.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

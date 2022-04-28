@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezcsh",
+  "id": "build/tools/ezcsh",
+  "title": "EZCsh",
+  "description": "EZCsh is deprecated and is being replaced with the EZChain Network Runner",
+  "source": "@site/docs/build/tools/ezcsh.md",
+  "sourceDirName": "build/tools",
+  "slug": "/build/tools/ezcsh",
+  "permalink": "/build/tools/ezcsh",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezcsh.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

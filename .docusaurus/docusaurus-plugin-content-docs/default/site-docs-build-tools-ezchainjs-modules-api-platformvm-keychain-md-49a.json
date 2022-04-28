@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/api_platformvm_keychain",
+  "id": "build/tools/ezchainjs/modules/api_platformvm_keychain",
+  "title": "api_platformvm_keychain",
+  "description": "ezchain › API-PlatformVM-KeyChain",
+  "source": "@site/docs/build/tools/ezchainjs/modules/api_platformvm_keychain.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/api_platformvm_keychain",
+  "permalink": "/build/tools/ezchainjs/modules/api_platformvm_keychain",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/api_platformvm_keychain.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

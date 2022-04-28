@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/api_evm_utxos",
+  "id": "build/tools/ezchainjs/modules/api_evm_utxos",
+  "title": "api_evm_utxos",
+  "description": "ezchain › API-EVM-UTXOs",
+  "source": "@site/docs/build/tools/ezchainjs/modules/api_evm_utxos.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/api_evm_utxos",
+  "permalink": "/build/tools/ezchainjs/modules/api_evm_utxos",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/api_evm_utxos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

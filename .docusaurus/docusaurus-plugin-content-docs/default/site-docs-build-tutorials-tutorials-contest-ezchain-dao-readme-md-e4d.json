@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tutorials/tutorials-contest/ezchain-DAO/README",
+  "id": "build/tutorials/tutorials-contest/ezchain-DAO/README",
+  "title": "How to Create Your Own DAO with EZChain",
+  "description": "What is a DAO",
+  "source": "@site/docs/build/tutorials/tutorials-contest/ezchain-DAO/README.md",
+  "sourceDirName": "build/tutorials/tutorials-contest/ezchain-DAO",
+  "slug": "/build/tutorials/tutorials-contest/ezchain-DAO/",
+  "permalink": "/build/tutorials/tutorials-contest/ezchain-DAO/",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/tutorials-contest/ezchain-DAO/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

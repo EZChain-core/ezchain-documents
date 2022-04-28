@@ -1,0 +1,26 @@
+{
+  "unversionedId": "build/tutorials/platform/subnets/create-evm-blockchain",
+  "id": "build/tutorials/platform/subnets/create-evm-blockchain",
+  "title": "Create a Blockchain Running the Subnet EVM",
+  "description": "Introduction",
+  "source": "@site/docs/build/tutorials/platform/subnets/create-evm-blockchain.md",
+  "sourceDirName": "build/tutorials/platform/subnets",
+  "slug": "/build/tutorials/platform/subnets/create-evm-blockchain",
+  "permalink": "/build/tutorials/platform/subnets/create-evm-blockchain",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/platform/subnets/create-evm-blockchain.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Blockchain Running the AVM",
+    "permalink": "/build/tutorials/platform/subnets/create-avm-blockchain"
+  },
+  "next": {
+    "title": "Create a Virtual Machine (VM)",
+    "permalink": "/build/tutorials/platform/subnets/create-a-virtual-machine-vm"
+  }
+}

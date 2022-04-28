@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/tutorials/smart-contracts/verify-smart-contracts",
+  "id": "build/tutorials/smart-contracts/verify-smart-contracts",
+  "title": "Verify Smart Contracts on the C-Chain Explorer",
+  "description": "The C-Chain Explorer supports verifying smart contracts, allowing users to review it.",
+  "source": "@site/docs/build/tutorials/smart-contracts/verify-smart-contracts.md",
+  "sourceDirName": "build/tutorials/smart-contracts",
+  "slug": "/build/tutorials/smart-contracts/verify-smart-contracts",
+  "permalink": "/build/tutorials/smart-contracts/verify-smart-contracts",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/smart-contracts/verify-smart-contracts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Verifying Smart Contracts with Truffle Verify",
+    "permalink": "/build/tutorials/smart-contracts/verify-smart-contracts-with-truffle-verify"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/build/tutorials/smart-digital-assets/"
+  }
+}

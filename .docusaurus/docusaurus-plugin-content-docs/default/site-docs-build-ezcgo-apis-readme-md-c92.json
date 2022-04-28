@@ -1,0 +1,26 @@
+{
+  "unversionedId": "build/ezcgo-apis/README",
+  "id": "build/ezcgo-apis/README",
+  "title": "Overview",
+  "description": "Clients interact with EZChain through APIs calls to nodes. Numeric parameters in API calls may be given as strings (e.g., \"5\" or 5 are both ok for an integer argument). Numeric return values are always given as strings (e.g., \"5\" rather than 5). In examples, API calls are made to a node listening for HTTP traffic on 127.0.0.1:9650.",
+  "source": "@site/docs/build/ezcgo-apis/README.md",
+  "sourceDirName": "build/ezcgo-apis",
+  "slug": "/build/ezcgo-apis/",
+  "permalink": "/build/ezcgo-apis/",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/ezcgo-apis/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/build/tutorials/tutorials-contest/"
+  },
+  "next": {
+    "title": "Issuing API Calls",
+    "permalink": "/build/ezcgo-apis/issuing-api-calls"
+  }
+}

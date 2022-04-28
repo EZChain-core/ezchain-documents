@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.mintnftparams",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.mintnftparams",
+  "title": "avm_interfaces.mintnftparams",
+  "description": "ezchain › AVM-Interfaces › MintNFTParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.mintnftparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.mintnftparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.mintnftparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.mintnftparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

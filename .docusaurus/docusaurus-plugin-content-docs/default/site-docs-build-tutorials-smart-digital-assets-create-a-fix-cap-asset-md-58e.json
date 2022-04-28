@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/tutorials/smart-digital-assets/create-a-fix-cap-asset",
+  "id": "build/tutorials/smart-digital-assets/create-a-fix-cap-asset",
+  "title": "Create a Fixed-Cap Asset",
+  "description": "Introduction",
+  "source": "@site/docs/build/tutorials/smart-digital-assets/create-a-fix-cap-asset.md",
+  "sourceDirName": "build/tutorials/smart-digital-assets",
+  "slug": "/build/tutorials/smart-digital-assets/create-a-fix-cap-asset",
+  "permalink": "/build/tutorials/smart-digital-assets/create-a-fix-cap-asset",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/smart-digital-assets/create-a-fix-cap-asset.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/build/tutorials/smart-digital-assets/"
+  },
+  "next": {
+    "title": "Create an ERC-20 Token Using Solidity",
+    "permalink": "/build/tutorials/smart-digital-assets/create-erc-20-token-on-ezchain-c-chain"
+  }
+}

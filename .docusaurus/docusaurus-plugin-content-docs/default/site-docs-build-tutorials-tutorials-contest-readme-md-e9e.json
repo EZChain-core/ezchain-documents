@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/tutorials/tutorials-contest/README",
+  "id": "build/tutorials/tutorials-contest/README",
+  "title": "README",
+  "description": "<!-- # Winners",
+  "source": "@site/docs/build/tutorials/tutorials-contest/README.md",
+  "sourceDirName": "build/tutorials/tutorials-contest",
+  "slug": "/build/tutorials/tutorials-contest/",
+  "permalink": "/build/tutorials/tutorials-contest/",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/tutorials-contest/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create NFTs with the EZChain Wallet",
+    "permalink": "/build/tutorials/smart-digital-assets/wallet-nft-studio"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/build/ezcgo-apis/"
+  }
+}

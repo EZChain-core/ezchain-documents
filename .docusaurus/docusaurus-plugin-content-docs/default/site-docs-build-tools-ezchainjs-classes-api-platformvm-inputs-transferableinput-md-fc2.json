@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/classes/api_platformvm_inputs.transferableinput",
+  "id": "build/tools/ezchainjs/classes/api_platformvm_inputs.transferableinput",
+  "title": "api_platformvm_inputs.transferableinput",
+  "description": "ezchain › API-PlatformVM-Inputs › TransferableInput",
+  "source": "@site/docs/build/tools/ezchainjs/classes/api_platformvm_inputs.transferableinput.md",
+  "sourceDirName": "build/tools/ezchainjs/classes",
+  "slug": "/build/tools/ezchainjs/classes/api_platformvm_inputs.transferableinput",
+  "permalink": "/build/tools/ezchainjs/classes/api_platformvm_inputs.transferableinput",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/classes/api_platformvm_inputs.transferableinput.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

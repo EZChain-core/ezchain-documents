@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/evm_interfaces.exportparams",
+  "id": "build/tools/ezchainjs/interfaces/evm_interfaces.exportparams",
+  "title": "evm_interfaces.exportparams",
+  "description": "ezchain › EVM-Interfaces › ExportParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/evm_interfaces.exportparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/evm_interfaces.exportparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/evm_interfaces.exportparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/evm_interfaces.exportparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

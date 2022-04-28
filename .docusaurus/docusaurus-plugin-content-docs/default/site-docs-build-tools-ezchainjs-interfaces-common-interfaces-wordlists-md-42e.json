@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/common_interfaces.wordlists",
+  "id": "build/tools/ezchainjs/interfaces/common_interfaces.wordlists",
+  "title": "common_interfaces.wordlists",
+  "description": "ezchain › Common-Interfaces › WordLists",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/common_interfaces.wordlists.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/common_interfaces.wordlists",
+  "permalink": "/build/tools/ezchainjs/interfaces/common_interfaces.wordlists",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/common_interfaces.wordlists.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

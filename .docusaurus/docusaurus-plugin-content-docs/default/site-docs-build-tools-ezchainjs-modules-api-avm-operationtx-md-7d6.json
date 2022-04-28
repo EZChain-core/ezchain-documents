@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/api_avm_operationtx",
+  "id": "build/tools/ezchainjs/modules/api_avm_operationtx",
+  "title": "api_avm_operationtx",
+  "description": "ezchain › API-AVM-OperationTx",
+  "source": "@site/docs/build/tools/ezchainjs/modules/api_avm_operationtx.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/api_avm_operationtx",
+  "permalink": "/build/tools/ezchainjs/modules/api_avm_operationtx",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/api_avm_operationtx.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

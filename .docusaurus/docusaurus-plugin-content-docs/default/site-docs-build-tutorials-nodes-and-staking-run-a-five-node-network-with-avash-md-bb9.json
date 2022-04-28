@@ -1,0 +1,26 @@
+{
+  "unversionedId": "build/tutorials/nodes-and-staking/run-a-five-node-network-with-avash",
+  "id": "build/tutorials/nodes-and-staking/run-a-five-node-network-with-avash",
+  "title": "Run a Five Node Network with EZCsh",
+  "description": "EZCsh is deprecated and is being replaced with the EZChain Network Runner",
+  "source": "@site/docs/build/tutorials/nodes-and-staking/run-a-five-node-network-with-avash.md",
+  "sourceDirName": "build/tutorials/nodes-and-staking",
+  "slug": "/build/tutorials/nodes-and-staking/run-a-five-node-network-with-avash",
+  "permalink": "/build/tutorials/nodes-and-staking/run-a-five-node-network-with-avash",
+  "editUrl": "https://github.com/EZChain-core/EZChain-docs/edit/master/docs/build/tutorials/nodes-and-staking/run-a-five-node-network-with-avash.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hetzner Volume Migration",
+    "permalink": "/build/tutorials/nodes-and-staking/hetzner-volume-migration"
+  },
+  "next": {
+    "title": "Run an EZChain Node with Google Cloud Platform",
+    "permalink": "/build/tutorials/nodes-and-staking/set-up-an-ezchain-node-with-google-cloud-platform"
+  }
+}

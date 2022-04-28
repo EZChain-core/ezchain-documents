@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/classes/api_avm_initialstates.initialstates",
+  "id": "build/tools/ezchainjs/classes/api_avm_initialstates.initialstates",
+  "title": "api_avm_initialstates.initialstates",
+  "description": "ezchain › API-AVM-InitialStates › InitialStates",
+  "source": "@site/docs/build/tools/ezchainjs/classes/api_avm_initialstates.initialstates.md",
+  "sourceDirName": "build/tools/ezchainjs/classes",
+  "slug": "/build/tools/ezchainjs/classes/api_avm_initialstates.initialstates",
+  "permalink": "/build/tools/ezchainjs/classes/api_avm_initialstates.initialstates",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/classes/api_avm_initialstates.initialstates.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

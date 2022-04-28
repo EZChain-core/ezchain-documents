@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/admin_interfaces.getloggerlevelparams",
+  "id": "build/tools/ezchainjs/interfaces/admin_interfaces.getloggerlevelparams",
+  "title": "admin_interfaces.getloggerlevelparams",
+  "description": "ezchain › Admin-Interfaces › GetLoggerLevelParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/admin_interfaces.getloggerlevelparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/admin_interfaces.getloggerlevelparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/admin_interfaces.getloggerlevelparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/admin_interfaces.getloggerlevelparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

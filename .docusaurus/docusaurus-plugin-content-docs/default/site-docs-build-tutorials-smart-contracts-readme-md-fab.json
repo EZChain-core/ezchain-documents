@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/tutorials/smart-contracts/README",
+  "id": "build/tutorials/smart-contracts/README",
+  "title": "Overview",
+  "description": "| Title | Description |",
+  "source": "@site/docs/build/tutorials/smart-contracts/README.md",
+  "sourceDirName": "build/tutorials/smart-contracts",
+  "slug": "/build/tutorials/smart-contracts/",
+  "permalink": "/build/tutorials/smart-contracts/",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/smart-contracts/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sending Transactions with Dynamic Fees using Jezc.cript",
+    "permalink": "/build/tutorials/platform/sending-transactions-with-dynamic-fees-using-javascript"
+  },
+  "next": {
+    "title": "Add EZChain to MetaMask Programmatically",
+    "permalink": "/build/tutorials/smart-contracts/add-ezchain-to-metamask-programmatically"
+  }
+}

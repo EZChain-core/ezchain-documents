@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.getaddresstxsresponse",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.getaddresstxsresponse",
+  "title": "avm_interfaces.getaddresstxsresponse",
+  "description": "ezchain › AVM-Interfaces › GetAddressTxsResponse",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.getaddresstxsresponse.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.getaddresstxsresponse",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.getaddresstxsresponse",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.getaddresstxsresponse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

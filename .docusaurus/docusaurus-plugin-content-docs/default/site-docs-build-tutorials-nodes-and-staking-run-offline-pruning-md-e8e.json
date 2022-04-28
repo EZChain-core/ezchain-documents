@@ -1,0 +1,16 @@
+{
+  "unversionedId": "build/tutorials/nodes-and-staking/run-offline-pruning",
+  "id": "build/tutorials/nodes-and-staking/run-offline-pruning",
+  "title": "Run C-Chain Offline Pruning",
+  "description": "Introduction",
+  "source": "@site/docs/build/tutorials/nodes-and-staking/run-offline-pruning.md",
+  "sourceDirName": "build/tutorials/nodes-and-staking",
+  "slug": "/build/tutorials/nodes-and-staking/run-offline-pruning",
+  "permalink": "/build/tutorials/nodes-and-staking/run-offline-pruning",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/nodes-and-staking/run-offline-pruning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "decription": "In this doc, learn how to run offline pruning on your node to reduce its disk usage."
+  }
+}

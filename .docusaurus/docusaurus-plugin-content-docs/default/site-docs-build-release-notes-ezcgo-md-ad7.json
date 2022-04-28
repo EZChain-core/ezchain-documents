@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/release-notes/ezcgo",
+  "id": "build/release-notes/ezcgo",
+  "title": "EZChainGo",
+  "description": "Upgrade Your EZChainGo Node",
+  "source": "@site/docs/build/release-notes/ezcgo.md",
+  "sourceDirName": "build/release-notes",
+  "slug": "/build/release-notes/ezcgo",
+  "permalink": "/build/release-notes/ezcgo",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/release-notes/ezcgo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "EZChain Transaction Fee",
+    "permalink": "/learn/platform-overview/transaction-fees"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/build/tutorials/"
+  }
+}

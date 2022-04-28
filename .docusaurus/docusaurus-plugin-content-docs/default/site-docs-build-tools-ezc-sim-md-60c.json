@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezc-sim",
+  "id": "build/tools/ezc-sim",
+  "title": "EZChain Local Simulator",
+  "description": "ezc-sim makes it easy for anyone to spin up a local instance of an EZChain network to interact with the EZChain standard APIs or to test a custom VM.",
+  "source": "@site/docs/build/tools/ezc-sim.md",
+  "sourceDirName": "build/tools",
+  "slug": "/build/tools/ezc-sim",
+  "permalink": "/build/tools/ezc-sim",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezc-sim.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

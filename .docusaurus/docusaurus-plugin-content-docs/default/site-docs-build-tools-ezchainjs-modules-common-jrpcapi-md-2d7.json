@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/common_jrpcapi",
+  "id": "build/tools/ezchainjs/modules/common_jrpcapi",
+  "title": "common_jrpcapi",
+  "description": "ezchain › Common-JRPCAPI",
+  "source": "@site/docs/build/tools/ezchainjs/modules/common_jrpcapi.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/common_jrpcapi",
+  "permalink": "/build/tools/ezchainjs/modules/common_jrpcapi",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/common_jrpcapi.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

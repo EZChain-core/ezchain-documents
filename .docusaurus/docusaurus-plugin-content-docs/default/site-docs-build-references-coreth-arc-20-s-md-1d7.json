@@ -1,0 +1,26 @@
+{
+  "unversionedId": "build/references/coreth-arc20s",
+  "id": "build/references/coreth-arc20s",
+  "title": "EZChain Native Tokens and ARC-20s",
+  "description": "What is an EZChain Native Token?",
+  "source": "@site/docs/build/references/coreth-arc20s.md",
+  "sourceDirName": "build/references",
+  "slug": "/build/references/coreth-arc20s",
+  "permalink": "/build/references/coreth-arc20s",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/references/coreth-arc20s.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chain Configs",
+    "permalink": "/build/references/chain-config-flags"
+  },
+  "next": {
+    "title": "AVM Transaction Format",
+    "permalink": "/build/references/avm-transaction-serialization"
+  }
+}

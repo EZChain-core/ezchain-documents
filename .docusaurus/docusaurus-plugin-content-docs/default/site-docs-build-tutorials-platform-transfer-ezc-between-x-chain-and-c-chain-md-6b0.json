@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/tutorials/platform/transfer-ezc-between-x-chain-and-c-chain",
+  "id": "build/tutorials/platform/transfer-ezc-between-x-chain-and-c-chain",
+  "title": "Transfer EZC Between the X-Chain and C-Chain",
+  "description": "Introduction",
+  "source": "@site/docs/build/tutorials/platform/transfer-ezc-between-x-chain-and-c-chain.md",
+  "sourceDirName": "build/tutorials/platform",
+  "slug": "/build/tutorials/platform/transfer-ezc-between-x-chain-and-c-chain",
+  "permalink": "/build/tutorials/platform/transfer-ezc-between-x-chain-and-c-chain",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/platform/transfer-ezc-between-x-chain-and-c-chain.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Launch Your Ethereum dApp on EZChain",
+    "permalink": "/build/tutorials/platform/launch-your-ethereum-dapp"
+  },
+  "next": {
+    "title": "Transfer EZC Between the X-Chain and P-Chain",
+    "permalink": "/build/tutorials/platform/transfer-ezc-between-x-chain-and-p-chain"
+  }
+}

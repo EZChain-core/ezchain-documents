@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/classes/api_platformvm_utxos.utxo",
+  "id": "build/tools/ezchainjs/classes/api_platformvm_utxos.utxo",
+  "title": "api_platformvm_utxos.utxo",
+  "description": "ezchain › API-PlatformVM-UTXOs › UTXO",
+  "source": "@site/docs/build/tools/ezchainjs/classes/api_platformvm_utxos.utxo.md",
+  "sourceDirName": "build/tools/ezchainjs/classes",
+  "slug": "/build/tools/ezchainjs/classes/api_platformvm_utxos.utxo",
+  "permalink": "/build/tools/ezchainjs/classes/api_platformvm_utxos.utxo",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/classes/api_platformvm_utxos.utxo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

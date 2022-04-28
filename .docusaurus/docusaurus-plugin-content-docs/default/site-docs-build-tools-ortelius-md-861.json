@@ -1,0 +1,25 @@
+{
+  "unversionedId": "build/tools/ortelius",
+  "id": "build/tools/ortelius",
+  "title": "Ortelius API",
+  "description": "This API allows clients to interact with Ortelius, the EZChain indexer.",
+  "source": "@site/docs/build/tools/ortelius.md",
+  "sourceDirName": "build/tools",
+  "slug": "/build/tools/ortelius",
+  "permalink": "/build/tools/ortelius",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ortelius.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "This API allows clients to interact with Ortelius, the EZChain indexer."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Abigen",
+    "permalink": "/build/tools/abigen"
+  },
+  "next": {
+    "title": "EZChainGo Config and Flags",
+    "permalink": "/build/references/ezcgo-config-flags"
+  }
+}

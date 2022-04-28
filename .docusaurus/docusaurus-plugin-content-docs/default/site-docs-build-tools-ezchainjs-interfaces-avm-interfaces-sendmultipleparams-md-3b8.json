@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.sendmultipleparams",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.sendmultipleparams",
+  "title": "avm_interfaces.sendmultipleparams",
+  "description": "ezchain › AVM-Interfaces › SendMultipleParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.sendmultipleparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.sendmultipleparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.sendmultipleparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.sendmultipleparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

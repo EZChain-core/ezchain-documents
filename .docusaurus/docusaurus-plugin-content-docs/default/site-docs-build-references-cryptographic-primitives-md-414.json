@@ -1,0 +1,26 @@
+{
+  "unversionedId": "build/references/cryptographic-primitives",
+  "id": "build/references/cryptographic-primitives",
+  "title": "Cryptographic Primitives",
+  "description": "EZChain uses a variety of cryptographic primitives for its different functions. This file summarizes the type and kind of cryptography used at the network and blockchain layers.",
+  "source": "@site/docs/build/references/cryptographic-primitives.md",
+  "sourceDirName": "build/references",
+  "slug": "/build/references/cryptographic-primitives",
+  "permalink": "/build/references/cryptographic-primitives",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/references/cryptographic-primitives.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Coreth Atomic Transaction Format",
+    "permalink": "/build/references/coreth-atomic-transaction-serialization"
+  },
+  "next": {
+    "title": "Network Protocol",
+    "permalink": "/build/references/network-protocol"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/tutorials/smart-contracts/add-ezchain-to-metamask-programmatically",
+  "id": "build/tutorials/smart-contracts/add-ezchain-to-metamask-programmatically",
+  "title": "Add EZChain to MetaMask Programmatically",
+  "description": "Adding new networks to Metamask is not a trivial task for people that are not technically savvy, and it can be error prone. To help easier onboarding of users to your application it is useful to simplify that process as much as possible. This tutorial will show how to build a simple button in your front-end application that will automate the process of adding the EZChain network to MetaMask.",
+  "source": "@site/docs/build/tutorials/smart-contracts/add-ezchain-to-metamask-programmatically.md",
+  "sourceDirName": "build/tutorials/smart-contracts",
+  "slug": "/build/tutorials/smart-contracts/add-ezchain-to-metamask-programmatically",
+  "permalink": "/build/tutorials/smart-contracts/add-ezchain-to-metamask-programmatically",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/smart-contracts/add-ezchain-to-metamask-programmatically.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/build/tutorials/smart-contracts/"
+  },
+  "next": {
+    "title": "Deploy a Smart Contract on EZChain Using Remix and MetaMask",
+    "permalink": "/build/tutorials/smart-contracts/deploy-a-smart-contract-on-ezchain-using-remix-and-metamask"
+  }
+}

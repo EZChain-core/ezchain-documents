@@ -1,0 +1,17 @@
+{
+  "unversionedId": "build/tutorials/nodes-and-staking/setting-up-node-monitoring",
+  "id": "build/tutorials/nodes-and-staking/setting-up-node-monitoring",
+  "title": "Monitor an EZChain Node",
+  "description": "Introduction",
+  "source": "@site/docs/build/tutorials/nodes-and-staking/setting-up-node-monitoring.md",
+  "sourceDirName": "build/tutorials/nodes-and-staking",
+  "slug": "/build/tutorials/nodes-and-staking/setting-up-node-monitoring",
+  "permalink": "/build/tutorials/nodes-and-staking/setting-up-node-monitoring",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/nodes-and-staking/setting-up-node-monitoring.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/admin_interfaces.getloggerlevelresponse",
+  "id": "build/tools/ezchainjs/interfaces/admin_interfaces.getloggerlevelresponse",
+  "title": "admin_interfaces.getloggerlevelresponse",
+  "description": "ezchain › Admin-Interfaces › GetLoggerLevelResponse",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/admin_interfaces.getloggerlevelresponse.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/admin_interfaces.getloggerlevelresponse",
+  "permalink": "/build/tools/ezchainjs/interfaces/admin_interfaces.getloggerlevelresponse",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/admin_interfaces.getloggerlevelresponse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

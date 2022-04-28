@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/platformvm_interfaces.getutxosresponse",
+  "id": "build/tools/ezchainjs/interfaces/platformvm_interfaces.getutxosresponse",
+  "title": "platformvm_interfaces.getutxosresponse",
+  "description": "ezchain › PlatformVM-Interfaces › GetUTXOsResponse",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.getutxosresponse.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.getutxosresponse",
+  "permalink": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.getutxosresponse",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.getutxosresponse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,17 @@
+{
+  "unversionedId": "build/tutorials/nodes-and-staking/hetzner-volume-migration",
+  "id": "build/tutorials/nodes-and-staking/hetzner-volume-migration",
+  "title": "Hetzner Volume Migration",
+  "description": "Hetzner is a cloud provider which can be used to run an EZChain node. It may become necessary to add more disk space to your node as EZChain Network activity grows, however, Hetzner does not provide for local storage expansion (local storage comes with an instance when created).",
+  "source": "@site/docs/build/tutorials/nodes-and-staking/hetzner-volume-migration.md",
+  "sourceDirName": "build/tutorials/nodes-and-staking",
+  "slug": "/build/tutorials/nodes-and-staking/hetzner-volume-migration",
+  "permalink": "/build/tutorials/nodes-and-staking/hetzner-volume-migration",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/nodes-and-staking/hetzner-volume-migration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  }
+}

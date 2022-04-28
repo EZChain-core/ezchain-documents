@@ -1,0 +1,26 @@
+{
+  "unversionedId": "build/references/coreth-atomic-transaction-serialization",
+  "id": "build/references/coreth-atomic-transaction-serialization",
+  "title": "Coreth Atomic Transaction Format",
+  "description": "This page is meant to be the single source of truth for how we serialize atomic transactions in Coreth. This document uses the primitive serialization format for packing and secp256k1 for cryptographic user identification.",
+  "source": "@site/docs/build/references/coreth-atomic-transaction-serialization.md",
+  "sourceDirName": "build/references",
+  "slug": "/build/references/coreth-atomic-transaction-serialization",
+  "permalink": "/build/references/coreth-atomic-transaction-serialization",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/references/coreth-atomic-transaction-serialization.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AVM Transaction Format",
+    "permalink": "/build/references/avm-transaction-serialization"
+  },
+  "next": {
+    "title": "Cryptographic Primitives",
+    "permalink": "/build/references/cryptographic-primitives"
+  }
+}

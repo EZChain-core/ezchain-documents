@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/index_interfaces.getlastacceptedresponse",
+  "id": "build/tools/ezchainjs/interfaces/index_interfaces.getlastacceptedresponse",
+  "title": "index_interfaces.getlastacceptedresponse",
+  "description": "ezchain › Index-Interfaces › GetLastAcceptedResponse",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/index_interfaces.getlastacceptedresponse.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/index_interfaces.getlastacceptedresponse",
+  "permalink": "/build/tools/ezchainjs/interfaces/index_interfaces.getlastacceptedresponse",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/index_interfaces.getlastacceptedresponse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

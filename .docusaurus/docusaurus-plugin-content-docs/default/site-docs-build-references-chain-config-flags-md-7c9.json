@@ -1,0 +1,27 @@
+{
+  "unversionedId": "build/references/chain-config-flags",
+  "id": "build/references/chain-config-flags",
+  "title": "Chain Configs",
+  "description": "Reference for all ezc.lable chain config options and flags.",
+  "source": "@site/docs/build/references/chain-config-flags.md",
+  "sourceDirName": "build/references",
+  "slug": "/build/references/chain-config-flags",
+  "permalink": "/build/references/chain-config-flags",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/references/chain-config-flags.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "description": "Reference for all ezc.lable chain config options and flags."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "EZChainGo Config and Flags",
+    "permalink": "/build/references/ezcgo-config-flags"
+  },
+  "next": {
+    "title": "EZChain Native Tokens and ARC-20s",
+    "permalink": "/build/references/coreth-arc20s"
+  }
+}

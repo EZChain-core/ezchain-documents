@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/common_inputs",
+  "id": "build/tools/ezchainjs/modules/common_inputs",
+  "title": "common_inputs",
+  "description": "ezchain › Common-Inputs",
+  "source": "@site/docs/build/tools/ezchainjs/modules/common_inputs.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/common_inputs",
+  "permalink": "/build/tools/ezchainjs/modules/common_inputs",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/common_inputs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

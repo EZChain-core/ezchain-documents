@@ -1,0 +1,18 @@
+{
+  "unversionedId": "build/tutorials/nodes-and-staking/run-ezchain-node",
+  "id": "build/tutorials/nodes-and-staking/run-ezchain-node",
+  "title": "Run an EZChain Node Manually",
+  "description": "The quickest way to learn about EZChain is to run a node and interact with the network and geared toward people interested in how the EZChain Platform works.",
+  "source": "@site/docs/build/tutorials/nodes-and-staking/run-ezchain-node.md",
+  "sourceDirName": "build/tutorials/nodes-and-staking",
+  "slug": "/build/tutorials/nodes-and-staking/run-ezchain-node",
+  "permalink": "/build/tutorials/nodes-and-staking/run-ezchain-node",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/nodes-and-staking/run-ezchain-node.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "description": "The quickest way to learn about EZChain is to run a node and interact with the network and geared toward people interested in how the EZChain Platform works."
+  }
+}

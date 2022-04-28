@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/tools/dashboards/README",
+  "id": "build/tools/dashboards/README",
+  "title": "Grafana Dashboards",
+  "description": "These are pre-configured Grafana dashboards that work with the setup as shown in Setting up node monitoring. The script in the linked tutorial will automatically install them.",
+  "source": "@site/docs/build/tools/dashboards/README.mdx",
+  "sourceDirName": "build/tools/dashboards",
+  "slug": "/build/tools/dashboards/",
+  "permalink": "/build/tools/dashboards/",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/dashboards/README.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wallet Classes",
+    "permalink": "/build/tools/ezchain-wallet-sdk/wallet-classes"
+  },
+  "next": {
+    "title": "Abigen",
+    "permalink": "/build/tools/abigen"
+  }
+}

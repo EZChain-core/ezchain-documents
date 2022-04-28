@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.getutxosparams",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.getutxosparams",
+  "title": "avm_interfaces.getutxosparams",
+  "description": "ezchain › AVM-Interfaces › GetUTXOsParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.getutxosparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.getutxosparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.getutxosparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.getutxosparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tutorials/tutorials-contest/distributed-file-manager/README",
+  "id": "build/tutorials/tutorials-contest/distributed-file-manager/README",
+  "title": "Distributed File Manager (DFM) using EZChain, IPFS and ReactJS",
+  "description": "Introduction",
+  "source": "@site/docs/build/tutorials/tutorials-contest/distributed-file-manager/README.md",
+  "sourceDirName": "build/tutorials/tutorials-contest/distributed-file-manager",
+  "slug": "/build/tutorials/tutorials-contest/distributed-file-manager/",
+  "permalink": "/build/tutorials/tutorials-contest/distributed-file-manager/",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/tutorials-contest/distributed-file-manager/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

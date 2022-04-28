@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/api_socket",
+  "id": "build/tools/ezchainjs/modules/api_socket",
+  "title": "api_socket",
+  "description": "ezchain › API-Socket",
+  "source": "@site/docs/build/tools/ezchainjs/modules/api_socket.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/api_socket",
+  "permalink": "/build/tools/ezchainjs/modules/api_socket",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/api_socket.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

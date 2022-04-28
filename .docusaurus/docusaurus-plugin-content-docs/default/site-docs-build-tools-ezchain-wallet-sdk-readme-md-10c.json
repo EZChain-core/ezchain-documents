@@ -1,0 +1,25 @@
+{
+  "unversionedId": "build/tools/ezchain-wallet-sdk/README",
+  "id": "build/tools/ezchain-wallet-sdk/README",
+  "title": "Wallet SDK Overview",
+  "description": "The EZChain Wallet SDK is a TypeScript library for creating and managing non-custodial wallets on the EZChain platform.",
+  "source": "@site/docs/build/tools/ezchain-wallet-sdk/README.md",
+  "sourceDirName": "build/tools/ezchain-wallet-sdk",
+  "slug": "/build/tools/ezchain-wallet-sdk/",
+  "permalink": "/build/tools/ezchain-wallet-sdk/",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchain-wallet-sdk/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "The EZChain Wallet SDK is a TypeScript library for creating and managing non-custodial wallets on the EZChain platform."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Send an Asset on the X-Chain",
+    "permalink": "/build/tools/ezchainjs/send-an-asset-on-the-x-chain"
+  },
+  "next": {
+    "title": "Wallet Classes",
+    "permalink": "/build/tools/ezchain-wallet-sdk/wallet-classes"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "build/ezcgo-apis/info",
+  "id": "build/ezcgo-apis/info",
+  "title": "Info API",
+  "description": "This API can be used to access basic information about the node.",
+  "source": "@site/docs/build/ezcgo-apis/info.md",
+  "sourceDirName": "build/ezcgo-apis",
+  "slug": "/build/ezcgo-apis/info",
+  "permalink": "/build/ezcgo-apis/info",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/ezcgo-apis/info.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Index API",
+    "permalink": "/build/ezcgo-apis/index-api"
+  },
+  "next": {
+    "title": "IPC API",
+    "permalink": "/build/ezcgo-apis/ipc"
+  }
+}

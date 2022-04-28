@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/platformvm_interfaces.exportezcparams",
+  "id": "build/tools/ezchainjs/interfaces/platformvm_interfaces.exportezcparams",
+  "title": "platformvm_interfaces.exportezcparams",
+  "description": "ezchain › PlatformVM-Interfaces › ExportEZCParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.exportezcparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.exportezcparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.exportezcparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.exportezcparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

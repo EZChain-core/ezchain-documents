@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/classes/api_platformvm_keychain.keypair",
+  "id": "build/tools/ezchainjs/classes/api_platformvm_keychain.keypair",
+  "title": "api_platformvm_keychain.keypair",
+  "description": "ezchain › API-PlatformVM-KeyChain › KeyPair",
+  "source": "@site/docs/build/tools/ezchainjs/classes/api_platformvm_keychain.keypair.md",
+  "sourceDirName": "build/tools/ezchainjs/classes",
+  "slug": "/build/tools/ezchainjs/classes/api_platformvm_keychain.keypair",
+  "permalink": "/build/tools/ezchainjs/classes/api_platformvm_keychain.keypair",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/classes/api_platformvm_keychain.keypair.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

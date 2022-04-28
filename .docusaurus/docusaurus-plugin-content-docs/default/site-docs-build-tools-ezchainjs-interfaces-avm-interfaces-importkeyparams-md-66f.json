@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.importkeyparams",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.importkeyparams",
+  "title": "avm_interfaces.importkeyparams",
+  "description": "ezchain › AVM-Interfaces › ImportKeyParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.importkeyparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.importkeyparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.importkeyparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.importkeyparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

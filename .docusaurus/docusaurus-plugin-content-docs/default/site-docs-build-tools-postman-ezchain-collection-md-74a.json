@@ -1,0 +1,25 @@
+{
+  "unversionedId": "build/tools/postman-ezchain-collection",
+  "id": "build/tools/postman-ezchain-collection",
+  "title": "Postman Collection",
+  "description": "Postman is a free tool used by developers to quickly and easily send REST, SOAP, and GraphQL requests and test APIs.",
+  "source": "@site/docs/build/tools/postman-ezchain-collection.md",
+  "sourceDirName": "build/tools",
+  "slug": "/build/tools/postman-ezchain-collection",
+  "permalink": "/build/tools/postman-ezchain-collection",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/postman-ezchain-collection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Postman is a free tool used by developers to quickly and easily send REST, SOAP, and GraphQL requests and test APIs."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Public API",
+    "permalink": "/build/tools/public-api"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/build/tools/ezchainjs/"
+  }
+}

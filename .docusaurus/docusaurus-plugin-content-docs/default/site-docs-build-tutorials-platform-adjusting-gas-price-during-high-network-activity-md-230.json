@@ -1,0 +1,25 @@
+{
+  "unversionedId": "build/tutorials/platform/adjusting-gas-price-during-high-network-activity",
+  "id": "build/tutorials/platform/adjusting-gas-price-during-high-network-activity",
+  "title": "Adjusting Gas Price During High Network Activity",
+  "description": "This tutorial will help users to adjust their priority fee and max fee cap during high network activity and take advantage of the benefits of dynamic fee transactions.",
+  "source": "@site/docs/build/tutorials/platform/adjusting-gas-price-during-high-network-activity.md",
+  "sourceDirName": "build/tutorials/platform",
+  "slug": "/build/tutorials/platform/adjusting-gas-price-during-high-network-activity",
+  "permalink": "/build/tutorials/platform/adjusting-gas-price-during-high-network-activity",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/platform/adjusting-gas-price-during-high-network-activity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "This tutorial will help users to adjust their priority fee and max fee cap during high network activity and take advantage of the benefits of dynamic fee transactions."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Transfer EZC Between the P-Chain and C-Chain",
+    "permalink": "/build/tutorials/platform/transfer-ezc-between-p-chain-and-c-chain"
+  },
+  "next": {
+    "title": "Sending Transactions with Dynamic Fees using Jezc.cript",
+    "permalink": "/build/tutorials/platform/sending-transactions-with-dynamic-fees-using-javascript"
+  }
+}

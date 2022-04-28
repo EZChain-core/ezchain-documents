@@ -1,0 +1,17 @@
+{
+  "unversionedId": "build/tutorials/nodes-and-staking/upgrade-your-ezcgo-node",
+  "id": "build/tutorials/nodes-and-staking/upgrade-your-ezcgo-node",
+  "title": "Upgrade Your EZChainGo Node",
+  "description": "<Iframe url=\"https://www.youtube.com/embed/o4Fww-sHoaQ\"",
+  "source": "@site/docs/build/tutorials/nodes-and-staking/upgrade-your-ezcgo-node.mdx",
+  "sourceDirName": "build/tutorials/nodes-and-staking",
+  "slug": "/build/tutorials/nodes-and-staking/upgrade-your-ezcgo-node",
+  "permalink": "/build/tutorials/nodes-and-staking/upgrade-your-ezcgo-node",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/nodes-and-staking/upgrade-your-ezcgo-node.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  }
+}

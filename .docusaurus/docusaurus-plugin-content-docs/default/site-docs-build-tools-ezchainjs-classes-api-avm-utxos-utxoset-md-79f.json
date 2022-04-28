@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/classes/api_avm_utxos.utxoset",
+  "id": "build/tools/ezchainjs/classes/api_avm_utxos.utxoset",
+  "title": "api_avm_utxos.utxoset",
+  "description": "ezchain › API-AVM-UTXOs › UTXOSet",
+  "source": "@site/docs/build/tools/ezchainjs/classes/api_avm_utxos.utxoset.md",
+  "sourceDirName": "build/tools/ezchainjs/classes",
+  "slug": "/build/tools/ezchainjs/classes/api_avm_utxos.utxoset",
+  "permalink": "/build/tools/ezchainjs/classes/api_avm_utxos.utxoset",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/classes/api_avm_utxos.utxoset.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

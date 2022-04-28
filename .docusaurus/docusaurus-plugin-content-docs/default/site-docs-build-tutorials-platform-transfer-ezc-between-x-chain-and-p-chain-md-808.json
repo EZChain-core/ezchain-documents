@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/tutorials/platform/transfer-ezc-between-x-chain-and-p-chain",
+  "id": "build/tutorials/platform/transfer-ezc-between-x-chain-and-p-chain",
+  "title": "Transfer EZC Between the X-Chain and P-Chain",
+  "description": "Introduction",
+  "source": "@site/docs/build/tutorials/platform/transfer-ezc-between-x-chain-and-p-chain.md",
+  "sourceDirName": "build/tutorials/platform",
+  "slug": "/build/tutorials/platform/transfer-ezc-between-x-chain-and-p-chain",
+  "permalink": "/build/tutorials/platform/transfer-ezc-between-x-chain-and-p-chain",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/platform/transfer-ezc-between-x-chain-and-p-chain.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Transfer EZC Between the X-Chain and C-Chain",
+    "permalink": "/build/tutorials/platform/transfer-ezc-between-x-chain-and-c-chain"
+  },
+  "next": {
+    "title": "Transfer EZC Between the P-Chain and C-Chain",
+    "permalink": "/build/tutorials/platform/transfer-ezc-between-p-chain-and-c-chain"
+  }
+}

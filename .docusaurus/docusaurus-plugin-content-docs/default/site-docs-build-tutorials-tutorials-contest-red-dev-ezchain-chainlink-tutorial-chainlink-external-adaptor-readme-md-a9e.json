@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tutorials/tutorials-contest/red-dev-ezchain-chainlink-tutorial/chainlink-external-adaptor/README",
+  "id": "build/tutorials/tutorials-contest/red-dev-ezchain-chainlink-tutorial/chainlink-external-adaptor/README",
+  "title": "chainlink-external-adaptor",
+  "description": "Adaptor for communicating smart contract with real world data",
+  "source": "@site/docs/build/tutorials/tutorials-contest/red-dev-ezchain-chainlink-tutorial/chainlink-external-adaptor/README.md",
+  "sourceDirName": "build/tutorials/tutorials-contest/red-dev-ezchain-chainlink-tutorial/chainlink-external-adaptor",
+  "slug": "/build/tutorials/tutorials-contest/red-dev-ezchain-chainlink-tutorial/chainlink-external-adaptor/",
+  "permalink": "/build/tutorials/tutorials-contest/red-dev-ezchain-chainlink-tutorial/chainlink-external-adaptor/",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/tutorials-contest/red-dev-ezchain-chainlink-tutorial/chainlink-external-adaptor/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

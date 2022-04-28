@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/avm_interfaces.utxoid",
+  "id": "build/tools/ezchainjs/interfaces/avm_interfaces.utxoid",
+  "title": "avm_interfaces.utxoid",
+  "description": "ezchain › AVM-Interfaces › UTXOID",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/avm_interfaces.utxoid.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/avm_interfaces.utxoid",
+  "permalink": "/build/tools/ezchainjs/interfaces/avm_interfaces.utxoid",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/avm_interfaces.utxoid.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

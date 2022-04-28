@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/health_interfaces",
+  "id": "build/tools/ezchainjs/modules/health_interfaces",
+  "title": "health_interfaces",
+  "description": "ezchain › Health-Interfaces",
+  "source": "@site/docs/build/tools/ezchainjs/modules/health_interfaces.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/health_interfaces",
+  "permalink": "/build/tools/ezchainjs/modules/health_interfaces",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/health_interfaces.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

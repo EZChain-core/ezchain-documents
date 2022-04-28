@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/classes/common_transactions.evmstandardunsignedtx",
+  "id": "build/tools/ezchainjs/classes/common_transactions.evmstandardunsignedtx",
+  "title": "common_transactions.evmstandardunsignedtx",
+  "description": "ezchain › Common-Transactions › EVMStandardUnsignedTx",
+  "source": "@site/docs/build/tools/ezchainjs/classes/common_transactions.evmstandardunsignedtx.md",
+  "sourceDirName": "build/tools/ezchainjs/classes",
+  "slug": "/build/tools/ezchainjs/classes/common_transactions.evmstandardunsignedtx",
+  "permalink": "/build/tools/ezchainjs/classes/common_transactions.evmstandardunsignedtx",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/classes/common_transactions.evmstandardunsignedtx.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

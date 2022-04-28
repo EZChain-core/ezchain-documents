@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/platformvm_interfaces.importezcparams",
+  "id": "build/tools/ezchainjs/interfaces/platformvm_interfaces.importezcparams",
+  "title": "platformvm_interfaces.importezcparams",
+  "description": "ezchain › PlatformVM-Interfaces › ImportEZCParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.importezcparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.importezcparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.importezcparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.importezcparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

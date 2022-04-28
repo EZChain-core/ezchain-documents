@@ -1,0 +1,25 @@
+{
+  "unversionedId": "build/tutorials/platform/launch-your-ethereum-dapp",
+  "id": "build/tutorials/platform/launch-your-ethereum-dapp",
+  "title": "Launch Your Ethereum dApp on EZChain",
+  "description": "The purpose of this document is to help you with launching your existing Ethereum dapp on EZChain, get the basics of EZChain Platform and how it works.",
+  "source": "@site/docs/build/tutorials/platform/launch-your-ethereum-dapp.md",
+  "sourceDirName": "build/tutorials/platform",
+  "slug": "/build/tutorials/platform/launch-your-ethereum-dapp",
+  "permalink": "/build/tutorials/platform/launch-your-ethereum-dapp",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/platform/launch-your-ethereum-dapp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "The purpose of this document is to help you with launching your existing Ethereum dapp on EZChain, get the basics of EZChain Platform and how it works."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrate an Exchange with EZChain C-Chain",
+    "permalink": "/build/tutorials/platform/integrate-exchange-with-ezchain"
+  },
+  "next": {
+    "title": "Transfer EZC Between the X-Chain and C-Chain",
+    "permalink": "/build/tutorials/platform/transfer-ezc-between-x-chain-and-c-chain"
+  }
+}

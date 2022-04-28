@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tutorials/platform/ezchain-summit-fuji-quickstart",
+  "id": "build/tutorials/platform/ezchain-summit-fuji-quickstart",
+  "title": "EZChain Summit: Fuji Quickstart",
+  "description": "Introduction",
+  "source": "@site/docs/build/tutorials/platform/ezchain-summit-fuji-quickstart.md",
+  "sourceDirName": "build/tutorials/platform",
+  "slug": "/build/tutorials/platform/ezchain-summit-fuji-quickstart",
+  "permalink": "/build/tutorials/platform/ezchain-summit-fuji-quickstart",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/platform/ezchain-summit-fuji-quickstart.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

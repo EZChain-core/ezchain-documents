@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tutorials/tutorials-contest/red-dev-ezchain-chainlink-tutorial/ansible-chainlink-ezchain-setup/README",
+  "id": "build/tutorials/tutorials-contest/red-dev-ezchain-chainlink-tutorial/ansible-chainlink-ezchain-setup/README",
+  "title": "reddev infrastructure automation repository",
+  "description": "Setup requirements:",
+  "source": "@site/docs/build/tutorials/tutorials-contest/red-dev-ezchain-chainlink-tutorial/ansible-chainlink-ezchain-setup/README.md",
+  "sourceDirName": "build/tutorials/tutorials-contest/red-dev-ezchain-chainlink-tutorial/ansible-chainlink-ezchain-setup",
+  "slug": "/build/tutorials/tutorials-contest/red-dev-ezchain-chainlink-tutorial/ansible-chainlink-ezchain-setup/",
+  "permalink": "/build/tutorials/tutorials-contest/red-dev-ezchain-chainlink-tutorial/ansible-chainlink-ezchain-setup/",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/tutorials-contest/red-dev-ezchain-chainlink-tutorial/ansible-chainlink-ezchain-setup/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

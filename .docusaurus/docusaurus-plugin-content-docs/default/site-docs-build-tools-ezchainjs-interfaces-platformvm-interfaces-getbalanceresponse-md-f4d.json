@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/platformvm_interfaces.getbalanceresponse",
+  "id": "build/tools/ezchainjs/interfaces/platformvm_interfaces.getbalanceresponse",
+  "title": "platformvm_interfaces.getbalanceresponse",
+  "description": "ezchain › PlatformVM-Interfaces › GetBalanceResponse",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.getbalanceresponse.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.getbalanceresponse",
+  "permalink": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.getbalanceresponse",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.getbalanceresponse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/api_index",
+  "id": "build/tools/ezchainjs/modules/api_index",
+  "title": "api_index",
+  "description": "ezchain › API-Index",
+  "source": "@site/docs/build/tools/ezchainjs/modules/api_index.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/api_index",
+  "permalink": "/build/tools/ezchainjs/modules/api_index",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/api_index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/platformvm_interfaces.getpendingvalidatorsparams",
+  "id": "build/tools/ezchainjs/interfaces/platformvm_interfaces.getpendingvalidatorsparams",
+  "title": "platformvm_interfaces.getpendingvalidatorsparams",
+  "description": "ezchain › PlatformVM-Interfaces › GetPendingValidatorsParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.getpendingvalidatorsparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.getpendingvalidatorsparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.getpendingvalidatorsparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.getpendingvalidatorsparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

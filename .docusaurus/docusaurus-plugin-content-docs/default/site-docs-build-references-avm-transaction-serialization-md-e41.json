@@ -1,0 +1,26 @@
+{
+  "unversionedId": "build/references/avm-transaction-serialization",
+  "id": "build/references/avm-transaction-serialization",
+  "title": "AVM Transaction Format",
+  "description": "This file is meant to be the single source of truth for how we serialize transactions in the EZChain Virtual Machine (AVM). This document uses the primitive serialization format for packing and secp256k1 for cryptographic user identification.",
+  "source": "@site/docs/build/references/avm-transaction-serialization.md",
+  "sourceDirName": "build/references",
+  "slug": "/build/references/avm-transaction-serialization",
+  "permalink": "/build/references/avm-transaction-serialization",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/references/avm-transaction-serialization.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "EZChain Native Tokens and ARC-20s",
+    "permalink": "/build/references/coreth-arc20s"
+  },
+  "next": {
+    "title": "Coreth Atomic Transaction Format",
+    "permalink": "/build/references/coreth-atomic-transaction-serialization"
+  }
+}

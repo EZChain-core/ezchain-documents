@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/platformvm_interfaces.blockchain",
+  "id": "build/tools/ezchainjs/interfaces/platformvm_interfaces.blockchain",
+  "title": "platformvm_interfaces.blockchain",
+  "description": "ezchain › PlatformVM-Interfaces › Blockchain",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.blockchain.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.blockchain",
+  "permalink": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.blockchain",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.blockchain.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "build/tutorials/platform/subnets/spaces",
+  "id": "build/tutorials/platform/subnets/spaces",
+  "title": "Spaces: Experimental Implementation",
+  "description": "Detailed information about this can be found in the README of the SpacesVM project.",
+  "source": "@site/docs/build/tutorials/platform/subnets/spaces.md",
+  "sourceDirName": "build/tutorials/platform/subnets",
+  "slug": "/build/tutorials/platform/subnets/spaces",
+  "permalink": "/build/tutorials/platform/subnets/spaces",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tutorials/platform/subnets/spaces.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Custom Blockchain",
+    "permalink": "/build/tutorials/platform/subnets/create-custom-blockchain"
+  },
+  "next": {
+    "title": "WAGMI Subnet Demo",
+    "permalink": "/build/tutorials/platform/subnets/wagmi"
+  }
+}

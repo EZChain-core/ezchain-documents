@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/api_platformvm_constants",
+  "id": "build/tools/ezchainjs/modules/api_platformvm_constants",
+  "title": "api_platformvm_constants",
+  "description": "ezchain › API-PlatformVM-Constants",
+  "source": "@site/docs/build/tools/ezchainjs/modules/api_platformvm_constants.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/api_platformvm_constants",
+  "permalink": "/build/tools/ezchainjs/modules/api_platformvm_constants",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/api_platformvm_constants.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

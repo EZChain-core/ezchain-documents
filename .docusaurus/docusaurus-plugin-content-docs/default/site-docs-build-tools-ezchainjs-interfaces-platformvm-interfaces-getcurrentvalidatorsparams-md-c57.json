@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/platformvm_interfaces.getcurrentvalidatorsparams",
+  "id": "build/tools/ezchainjs/interfaces/platformvm_interfaces.getcurrentvalidatorsparams",
+  "title": "platformvm_interfaces.getcurrentvalidatorsparams",
+  "description": "ezchain › PlatformVM-Interfaces › GetCurrentValidatorsParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.getcurrentvalidatorsparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.getcurrentvalidatorsparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.getcurrentvalidatorsparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.getcurrentvalidatorsparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/common_restapi",
+  "id": "build/tools/ezchainjs/modules/common_restapi",
+  "title": "common_restapi",
+  "description": "ezchain › Common-RESTAPI",
+  "source": "@site/docs/build/tools/ezchainjs/modules/common_restapi.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/common_restapi",
+  "permalink": "/build/tools/ezchainjs/modules/common_restapi",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/common_restapi.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

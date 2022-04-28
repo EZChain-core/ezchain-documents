@@ -1,0 +1,25 @@
+{
+  "unversionedId": "build/tools/public-api",
+  "id": "build/tools/public-api",
+  "title": "Public API",
+  "description": "There is a public API server that allows developers to access the EZChain platform without having to run a node themselves.",
+  "source": "@site/docs/build/tools/public-api.md",
+  "sourceDirName": "build/tools",
+  "slug": "/build/tools/public-api",
+  "permalink": "/build/tools/public-api",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/public-api.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "There is a public API server that allows developers to access the EZChain platform without having to run a node themselves."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/build/tools/"
+  },
+  "next": {
+    "title": "Postman Collection",
+    "permalink": "/build/tools/postman-ezchain-collection"
+  }
+}

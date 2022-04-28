@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/interfaces/platformvm_interfaces.importkeyparams",
+  "id": "build/tools/ezchainjs/interfaces/platformvm_interfaces.importkeyparams",
+  "title": "platformvm_interfaces.importkeyparams",
+  "description": "ezchain › PlatformVM-Interfaces › ImportKeyParams",
+  "source": "@site/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.importkeyparams.md",
+  "sourceDirName": "build/tools/ezchainjs/interfaces",
+  "slug": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.importkeyparams",
+  "permalink": "/build/tools/ezchainjs/interfaces/platformvm_interfaces.importkeyparams",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/interfaces/platformvm_interfaces.importkeyparams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/common_output",
+  "id": "build/tools/ezchainjs/modules/common_output",
+  "title": "common_output",
+  "description": "ezchain › Common-Output",
+  "source": "@site/docs/build/tools/ezchainjs/modules/common_output.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/common_output",
+  "permalink": "/build/tools/ezchainjs/modules/common_output",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/common_output.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

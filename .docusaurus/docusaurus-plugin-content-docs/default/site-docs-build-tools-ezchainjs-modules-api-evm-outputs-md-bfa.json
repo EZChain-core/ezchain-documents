@@ -1,0 +1,14 @@
+{
+  "unversionedId": "build/tools/ezchainjs/modules/api_evm_outputs",
+  "id": "build/tools/ezchainjs/modules/api_evm_outputs",
+  "title": "api_evm_outputs",
+  "description": "ezchain › API-EVM-Outputs",
+  "source": "@site/docs/build/tools/ezchainjs/modules/api_evm_outputs.md",
+  "sourceDirName": "build/tools/ezchainjs/modules",
+  "slug": "/build/tools/ezchainjs/modules/api_evm_outputs",
+  "permalink": "/build/tools/ezchainjs/modules/api_evm_outputs",
+  "editUrl": "https://github.com/EZChain-core/ezchain-documents/edit/master/docs/build/tools/ezchainjs/modules/api_evm_outputs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
