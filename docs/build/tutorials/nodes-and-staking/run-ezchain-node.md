@@ -15,7 +15,7 @@ In this tutorial, we will:
 * Add your node to the validator set
 
 :::caution
-If your issue isn’t addressed in the FAQ, come ask for help in the [EZChain Discord](https://t.me/EZChainOfficia)! We will work to get you through any obstacles.
+If your issue isn’t addressed in the FAQ, come ask for help in the [EZChain Telegram](https://t.me/EZChainOfficia)! We will work to get you through any obstacles.
 :::
 
 :::info
@@ -130,7 +130,7 @@ curl -X POST --data '{
 }' -H 'content-type:application/json;' 127.0.0.1:9650/ext/info
 ```
 
-If this returns `true`, the chain is bootstrapped. If you make an API call to a chain that is not done bootstrapping, it will return `API call rejected because chain is not done bootstrapping`. If your node never finishes bootstrapping, follow [this FAQ](http://support.ezchain.com/en/articles/4593908-is-my-node-done-bootstrapping), if you are still experiencing issues please contact us on [Discord.](https://t.me/EZChainOfficia/)
+If this returns `true`, the chain is bootstrapped. If you make an API call to a chain that is not done bootstrapping, it will return `API call rejected because chain is not done bootstrapping`. If your node never finishes bootstrapping, follow [this FAQ](http://support.ezchain.com/en/articles/4593908-is-my-node-done-bootstrapping), if you are still experiencing issues please contact us on [Telegram.](https://t.me/EZChainOfficia/)
 
 Your node is running and connected now. If you want to use your node as a validator on the main net, check out [this tutorial](add-a-validator.md#add-a-validator-with-ezchain-wallet) to find out how to add your node as a validator using the web wallet.
 

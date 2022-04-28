@@ -199,5 +199,5 @@ If you need the log filtering functionality, you should use a websocket connecti
 
 ## Support
 
-Using this tutorial you should be able to quickly get up to speed on EZChain, deploy, and test your dapps. If you have questions, problems, or just want to chat with us, you can reach us on our public [Discord](https://t.me/EZChainOfficia/) server. We'd love to hear from you and find out what you're building on EZChain!
+Using this tutorial you should be able to quickly get up to speed on EZChain, deploy, and test your dapps. If you have questions, problems, or just want to chat with us, you can reach us on our public [Telegram](https://t.me/EZChainOfficia/) server. We'd love to hear from you and find out what you're building on EZChain!
 

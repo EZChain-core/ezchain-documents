@@ -400,5 +400,5 @@ Now you can [interact with your node](../../ezcgo-apis/issuing-api-calls.md), [s
 
 Finally, if you haven't already, it is a good idea to [back up](node-backup-and-restore.md) important files in case you ever need to restore your node to a different machine.
 
-If you have any questions, or need help, feel free to contact us on our [Discord](https://t.me/EZChainOfficia/) server.
+If you have any questions, or need help, feel free to contact us on our [Telegram](https://t.me/EZChainOfficia/) server.
 

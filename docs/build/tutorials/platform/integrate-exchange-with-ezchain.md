@@ -98,5 +98,5 @@ If you plan on reading JSON responses directly or use web3.js (doesn't recompute
 
 ## Support
 
-If you have any problems or questions, reach out either directly to our developers, or on our public [Discord](https://t.me/EZChainOfficia/) server.
+If you have any problems or questions, reach out either directly to our developers, or on our public [Telegram](https://t.me/EZChainOfficia/) server.
 

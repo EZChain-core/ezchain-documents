@@ -414,5 +414,5 @@ We've succesfully transfered 5 tokes from `accounts[1]` to `accounts[0]`
 
 Now you have the tools you need to launch a local EZChain network, create a Hardhat project, as well as create, compile, deploy and interact with Solidity contracts.
 
-Join our [Discord Server](https://t.me/EZChainOfficia) to learn more and ask any questions you may have.
+Join our [Telegram Server](https://t.me/EZChainOfficia) to learn more and ask any questions you may have.
 

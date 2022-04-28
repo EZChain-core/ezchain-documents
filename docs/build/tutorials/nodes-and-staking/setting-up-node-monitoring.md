@@ -246,4 +246,4 @@ EZCilable node metrics are updated constantly, new ones are added and obsolete r
 
 Using the script to install node monitoring is easy, and it gives you insight into how your node is behaving and what's going on under the hood. Also, pretty graphs!
 
-If you have feedback on this tutorial, problems with the script or following the steps, send us a message on [Discord](https://t.me/EZChainOfficia).
+If you have feedback on this tutorial, problems with the script or following the steps, send us a message on [Telegram](https://t.me/EZChainOfficia).

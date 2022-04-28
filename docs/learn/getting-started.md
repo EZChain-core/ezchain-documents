@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Getting Started
 
-The purpose of this tutorial is to give a general overview of EZChain and to serve as a starting point for new users to the EZChain ecosystem. General knowledge of cryptocurrency is assumed, and in particular familiarity with the Ethereum ecosystem. If you don't understand something right away, that's OK. Search for an answer online, and if you don't find it, ask on our [Discord](https://t.me/EZChainOfficia).
+The purpose of this tutorial is to give a general overview of EZChain and to serve as a starting point for new users to the EZChain ecosystem. General knowledge of cryptocurrency is assumed, and in particular familiarity with the Ethereum ecosystem. If you don't understand something right away, that's OK. Search for an answer online, and if you don't find it, ask on our [Telegram](https://t.me/EZChainOfficia).
 
 We recommend reading this document entirely before using EZChain so that you can avoid common pitfalls and problems that new users run into. There are many facets of EZChain, so it's best to get a full picture of things before diving in to save yourself confusion. Also, this guide contains tips and warnings to help you avoid falling victim to scammers.
 
@@ -147,7 +147,7 @@ We offer several ways of getting support. Here are some:
 <!-- * [Support site](https://support.ezchain.com/en/) -->
 <!-- * [Twitter tech support](https://twitter.com/ezctechsupport). -->
 * [Telegram](http://t.me/EZChainOfficia/) (most popular and highest traffic.)
-* [Discord server](http://t.me/EZChainOfficia/) 
+* [Telegram server](http://t.me/EZChainOfficia/) 
 
 Expanding on the [DYOR](getting-started.md#dyor) section above: When using any public support channel, be suspicious of anyone contacting you in private via DMs, email or similar. They may pose as admins, moderators or team members. **Legitimate accounts will never contact you in DMs first!** Real admins and team members will always engage publicly first, and if needed request that you _contact them_ in direct message.
 

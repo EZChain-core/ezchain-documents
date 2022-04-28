@@ -5,7 +5,7 @@ description: The EZChain Bridge (AB) can be used to transfer ERC20 tokens from E
 
 # EZChain Bridge (AB) FAQ
 
-The [EZChain Bridge (AB)](https://bridge.ezchain.com/) can be used to transfer ERC20 tokens from Ethereum to EZChain's C-Chain and vice versa. This document answers common questions about the bridge. If this document and other documentation don't answer your question, you can contact us on [EZChain's support website](https://support.ezchain.com), [Discord](https://t.me/EZChainOfficia) or [Telegram.](https://t.me/ezchainezc)
+The [EZChain Bridge (AB)](https://bridge.ezchain.com/) can be used to transfer ERC20 tokens from Ethereum to EZChain's C-Chain and vice versa. This document answers common questions about the bridge. If this document and other documentation don't answer your question, you can contact us on [EZChain's support website](https://support.ezchain.com), [Telegram](https://t.me/EZChainOfficia) or [Telegram.](https://t.me/ezchainezc)
 
 
 
@@ -59,7 +59,7 @@ The AB does not currently support native ETH or BTC. However, you can transfer t
 
 ### What if my transaction is not visible in the explorer?
 
-The transactions that correspond to bridge transfers will appear on explorers for the EZChain and Ethereum networks. It may take a few minutes for the transactions to appear. To search for your transaction in the explorer, copy and paste your address into [EZChain's C-Chain Explorer](https://snowtrace.io/) or [Etherscan](https://etherscan.io/). To view the transactions sent by the bridge itself, you can look [here](https://snowtrace.io/address/0x50Ff3B278fCC70ec7A9465063d68029AB460eA04/transactions) for EZChain and [here](https://etherscan.io/address/0xe78388b4ce79068e89bf8aa7f218ef6b9ab0e9d0) for Ethereum. If you still don't see your transaction, reach out on [Telegram](https://t.me/ezchainezc) or [Discord](https://t.me/EZChainOfficia/).
+The transactions that correspond to bridge transfers will appear on explorers for the EZChain and Ethereum networks. It may take a few minutes for the transactions to appear. To search for your transaction in the explorer, copy and paste your address into [EZChain's C-Chain Explorer](https://snowtrace.io/) or [Etherscan](https://etherscan.io/). To view the transactions sent by the bridge itself, you can look [here](https://snowtrace.io/address/0x50Ff3B278fCC70ec7A9465063d68029AB460eA04/transactions) for EZChain and [here](https://etherscan.io/address/0xe78388b4ce79068e89bf8aa7f218ef6b9ab0e9d0) for Ethereum. If you still don't see your transaction, reach out on [Telegram](https://t.me/ezchainezc) or [Telegram](https://t.me/EZChainOfficia/).
 
 ### Are there tutorials on how to use the bridge?
 
@@ -260,7 +260,7 @@ Depending on your location, you may be able to buy EZC on a centralized exchange
 
 ### How can I contact someone for support?
 
-Support is ezc.lable using the chat at [support.ezchain.com](https://support.ezchain.com), or on our [Discord](https://t.me/EZChainOfficia/) server. **Please make a reasonable effort to search for the answer to your question before asking!** Someone else has almost certainly asked it.
+Support is ezc.lable using the chat at [support.ezchain.com](https://support.ezchain.com), or on our [Telegram](https://t.me/EZChainOfficia/) server. **Please make a reasonable effort to search for the answer to your question before asking!** Someone else has almost certainly asked it.
 
 ### What does the .e suffix in the token name mean?
 

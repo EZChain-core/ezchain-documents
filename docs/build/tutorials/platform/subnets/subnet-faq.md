@@ -10,7 +10,7 @@ Description: FAQ for subnet on EZChain network.
 ## Introduction
 
 ### I don't understand how subnets work, any documentation to read?
-As subnet is in rapid development phase, we constantly update and share this FAQ and our documentation at [here](README.md). If you have suggestions or questions, please reach out to us on [Discord](http://t.me/EZChainOfficia/).
+As subnet is in rapid development phase, we constantly update and share this FAQ and our documentation at [here](README.md). If you have suggestions or questions, please reach out to us on [Telegram](http://t.me/EZChainOfficia/).
 
 
 ## Validators

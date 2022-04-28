@@ -88,5 +88,5 @@ After pressing **Send Transaction** it will be published on the network, and the
 
 Now you can create NFT families, mint NFT groups, and send NFTs. Have fun! Make sure to share your creations with us on our [social media channels](https://www.ezchain.com/social)!
 
-If you would like to know the technical background of how NFTs work on the EZChain network or would like to build products using NFTs, please check out this [NFT tutorial](creating-a-nft-part-1.md). If you have technical questions, reach out to us on our [Discord](https://t.me/EZChainOfficia/) server.
+If you would like to know the technical background of how NFTs work on the EZChain network or would like to build products using NFTs, please check out this [NFT tutorial](creating-a-nft-part-1.md). If you have technical questions, reach out to us on our [Telegram](https://t.me/EZChainOfficia/) server.
 

@@ -78,7 +78,7 @@ The contract ABI and Bytecode are ezc.lable on the compiler tab.
 
 ![remix subnet evm sc abi](/img/remix-subnet-evm-sc-abi.png)
 
-If you had any difficulties following this tutorial or simply want to discuss EZChain with us, you can join our community at [Discord](https://t.me/EZChainOfficia/)!
+If you had any difficulties following this tutorial or simply want to discuss EZChain with us, you can join our community at [Telegram](https://t.me/EZChainOfficia/)!
 
 
 

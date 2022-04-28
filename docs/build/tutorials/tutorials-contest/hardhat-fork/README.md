@@ -537,7 +537,7 @@ Also if you would like to have another tutorial on how to use X with EZChain, le
 If you want to know more about ezchain, here's a bunch of links for you:
 
 [Website](https://ezchain.com/) | [Whitepapers](https://ezchain.com/whitepapers)
-| [Twitter](https://twitter.com/ezchainezc) | [Discord](https://t.me/EZChainOfficia/)
+| [Twitter](https://twitter.com/ezchainezc) | [Telegram](https://t.me/EZChainOfficia/)
 | [GitHub](https://github.com/EZChain-core) | [Documentation](https://docs.ezchain.com/)
 | [Forum](https://forum.ezchain.com/) | [EZChain-X](https://ezchain.com/ezchain-x)
 | [Telegram](https://t.me/ezchainezc) | [Facebook](https://facebook.com/ezchainezc)

@@ -32,7 +32,7 @@ A validator will receive a staking reward if they are online and response for mo
 You can call API method `info.uptime` on your node to learn its weighted uptime and what percentage of the network currently thinks your node has an uptime high enough to reveive a staking reward. See [here.](../../build/ezcgo-apis/info.md#infouptime)
 You can get another opinion on your node's uptime from EZChain's [Validator Health dashboard](https://stats.ezchain.com/dashboard/validator-health-check/).
 If your reported uptime is not close to 100%, there may be something wrong with your node setup, which may jeopardize your staking reward.
-If this is the case, please see [here](#why-is-my-uptime-low) or contact us on [Discord](https://t.me/EZChainOfficia) so we can help you find the issue.
+If this is the case, please see [here](#why-is-my-uptime-low) or contact us on [Telegram](https://t.me/EZChainOfficia) so we can help you find the issue.
 Note that only checking the uptime of your validator as measured by non-staking nodes, validators with small stake, or validators that have not been online for the full duration of your validation period can provide an inaccurate view of your node's true uptime.
 
 ## Validators
@@ -52,7 +52,7 @@ The minimum amount that a validator must stake is 2,000 EZC.
 :::
 
 :::danger
-Note that once you issue the transaction to add a node as a validator, there is no way to change the parameters. **You can’t remove your stake early or change the stake amount, node ID, or reward address.** Please make sure you’re using the correct values in the API calls below. If you’re not sure, ask for help on [Discord](https://t.me/EZChainOfficia) or browse our [Developer FAQs](http://support.ezchain.com/en/collections/2618154-developer-faq). If you want to add more tokens to your own validator, you can delegate the tokens to this node - but you cannot increase the base validation amount (so delegating to yourself goes against your delegation cap).
+Note that once you issue the transaction to add a node as a validator, there is no way to change the parameters. **You can’t remove your stake early or change the stake amount, node ID, or reward address.** Please make sure you’re using the correct values in the API calls below. If you’re not sure, ask for help on [Telegram](https://t.me/EZChainOfficia) or browse our [Developer FAQs](http://support.ezchain.com/en/collections/2618154-developer-faq). If you want to add more tokens to your own validator, you can delegate the tokens to this node - but you cannot increase the base validation amount (so delegating to yourself goes against your delegation cap).
 :::
 
 ### Running a Validator {#running-a-validator}
@@ -105,7 +105,7 @@ The minimum amount that a delegator must delegate is 25 EZC.
 :::
 
 :::danger
-Note that once you issue the transaction to add your stake to a delegator, there is no way to change the parameters. **You can’t remove your stake early or change the stake amount, node ID, or reward address.** If you’re not sure, ask for help on [Discord](https://t.me/EZChainOfficia) or browse our [Developer FAQs](http://support.ezchain.com/en/collections/2618154-developer-faq).
+Note that once you issue the transaction to add your stake to a delegator, there is no way to change the parameters. **You can’t remove your stake early or change the stake amount, node ID, or reward address.** If you’re not sure, ask for help on [Telegram](https://t.me/EZChainOfficia) or browse our [Developer FAQs](http://support.ezchain.com/en/collections/2618154-developer-faq).
 :::
 
 ### Delegator rewards {#delegator-rewards}

@@ -58,7 +58,7 @@ We will let our node bootstrap and sync with the rest with the network, and we a
 
 We will need our Node ID. Let’s find that using the [info API](../../ezcgo-apis/info.md)!
 
-If you need any help setting up your node, join us on [Discord](https://t.me/EZChainOfficia/).
+If you need any help setting up your node, join us on [Telegram](https://t.me/EZChainOfficia/).
 
 ![Image for post](https://miro.medium.com/max/1600/0*6hZSaT651Dd7R4bL)
 

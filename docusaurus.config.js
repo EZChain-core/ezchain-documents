@@ -157,7 +157,7 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Discord',
+                label: 'Telegram',
                 href: 'https://t.me/EZChainOfficia',
               },
               {

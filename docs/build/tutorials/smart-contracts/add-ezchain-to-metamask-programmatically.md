@@ -85,5 +85,5 @@ If they approve, your app will be connected to the EZChain network. Very easy, n
 
 Dapps users are often not very technically sophisticated and onboarding them needs to be as seamless and easy as possible. Manually adding a new network to MetaMask is a hurdle than a certain percentage of your potential users will not be able to clear. Removing that requirement is a simple step that will enhance their experience and enable more users to get to actually use your dapp.
 
-If you have any questions, problems, or ideas on how to improve, or simply want to join our developer community, you can contact us on our [Discord](https://t.me/EZChainOfficia/) server.
+If you have any questions, problems, or ideas on how to improve, or simply want to join our developer community, you can contact us on our [Telegram](https://t.me/EZChainOfficia/) server.
 
