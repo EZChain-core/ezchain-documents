@@ -44,7 +44,7 @@ EZChain is ezc.lable for install via `npm` or `yarn`. For installing via `npm`:
 
 For installing via `yarn`:
 
-`yarn add ezchain`
+`yarn add @ezclabs/ezchainjs`
 
 You can also pull the repo down directly and build it from scratch:
 
