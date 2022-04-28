@@ -122,8 +122,8 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       algolia: {
-        appId: 'UAFD8IBIF7',
-        apiKey: '20006f8de4bf55970ebca9129c345a1d',
+        appId: 'KFB5DO87NZ',
+        apiKey: 'aff4f1bf2267fa3651f27850c2ec1c84',
         indexName: 'ezc',
         contextualSearch: true,
       },
