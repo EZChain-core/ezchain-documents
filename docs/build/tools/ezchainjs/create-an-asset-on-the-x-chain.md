@@ -3,7 +3,7 @@
 This example creates an asset on the X-Chain and publishes it to the EZChain platform. The first step in this process is to create an instance of EZChainJS connected to our EZChain platform endpoint of choice. In this example we're using the local network `12345` via [EZCsh](../ezcsh.md). The code examples are written in typescript. The script is in full, in both typescript and javascript, after the individual steps. The whole example can be found [here](https://github.com/EZChain-core/ezchainjs/blob/master/examples/avm/buildCreateAssetTx.ts).
 
 ```ts
-import { EZChain, BN, Buffer } from "ezchain"
+import { Avalanche, BN, Buffer } from "@ezclabs/ezchainjs"
 import {
   AVMAPI,
   KeyChain,
@@ -13,17 +13,17 @@ import {
   InitialStates,
   SECPMintOutput,
   SECPTransferOutput
-} from "ezchain/dist/apis/avm"
+} from "@ezclabs/ezchainjs/dist/apis/avm"
 import {
   PrivateKeyPrefix,
   DefaultLocalGenesisPrivateKey
-} from "ezchain/dist/utils"
+} from "@ezclabs/ezchainjs/dist/utils"
 
 const ip: string = "localhost"
 const port: number = 9650
 const protocol: string = "http"
 const networkID: number = 12345 // Default is 1, we want to override that for our local network
-const ezchain: EZChain = new EZChain(ip, port, protocol, networkID)
+const ezchain: Avalanche = new Avalanche(ip, port, protocol, networkID)
 ```
 
 ## Import the local network's pre-funded address

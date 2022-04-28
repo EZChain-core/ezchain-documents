@@ -4,17 +4,17 @@ EZChainJS comes with its own AVM Keychain. This KeyChain is used in the function
 
 ```ts
 import {
-  EZChain,
+  Avalanche,
   BinTools,
   Buffer,
   BN
-} from "ezchain" 
+} from "@ezclabs/ezchainjs" 
 
 let bintools = BinTools.getInstance();
 
 let myNetworkID = 12345; //default is 1, we want to override that for our local network
 let myBlockchainID = "GJABrZ9A6UQFpwjPU8MDxDd8vuyRoDVeDAXc694wJ5t3zEkhU"; // The X-Chain blockchainID on this network
-let ezc.= new ezchain.EZChain("localhost", 9650, "http", myNetworkID, myBlockchainID);
+let ezc.= new ezchain.Avalanche("localhost", 9650, "http", myNetworkID, myBlockchainID);
 let xchain = ezc.XChain(); //returns a reference to the X-Chain used by EZChainJS
 ```
 

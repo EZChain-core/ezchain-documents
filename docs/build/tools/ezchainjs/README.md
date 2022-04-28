@@ -40,7 +40,7 @@ EZChainJS requires Node.js version 14.18.0 or higher to compile.
 
 EZChain is ezc.lable for install via `npm` or `yarn`. For installing via `npm`:
 
-`npm install --save ezchain`
+`npm install --save @ezclabs/ezchainjs`
 
 For installing via `yarn`:
 
@@ -55,31 +55,31 @@ This will generate a pure Javascript library and place it in a folder named "web
 The EZChainJS library can be imported into your existing Node.js project as follows:
 
 ```ts
-const ezchain = require("ezchain");
+const ezchain = require("@ezclabs/ezchainjs");
 ```
 
 Or into your TypeScript project like this:
 
 ```ts
-import { EZChain } from "ezchain"
+import { Avalanche } from "@ezclabs/ezchainjs"
 ```
 
 ## Importing essentials
 
 ```ts
 import {
-    EZChain,
+    Avalanche,
     BinTools,
     Buffer,
     BN
-  } from "ezchain"
+  } from "@ezclabs/ezchainjs"
 
 let bintools = BinTools.getInstance();
 ```
 
 The above lines import the libraries used in the tutorials. The libraries include:
 
-* ezchain: Our javascript module.
+* ezchainjs: Our javascript module.
 * bn.js: A bignumber module use by EZChainJS.
 * buffer: A Buffer library.
 * BinTools: A singleton built into EZChainJS that is used for dealing with binary data.

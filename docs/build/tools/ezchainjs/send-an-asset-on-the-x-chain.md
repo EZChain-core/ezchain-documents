@@ -4,15 +4,15 @@ This example sends an asset in the X-Chain to a single recipient. The first step
 
 ```ts
 import {
-  EZChain,
+  Avalanche,
   BinTools,
   Buffer,
   BN
-} from "ezchain" 
+} from "@ezclabs/ezchainjs" 
 
 let myNetworkID = 1; //default is 3, we want to override that for our local network
 let myBlockchainID = "2oYMBNV4eNHyqk2fjjV5nVQLDbtmNJzq5s3qs3Lo6ftnC6FByM"; // The X-Chain blockchainID on this network
-let ezc = new ezchain.EZChain("localhost", 9650, "http", myNetworkID, myBlockchainID);
+let ezc = new ezchain.Avalanche("localhost", 9650, "http", myNetworkID, myBlockchainID);
 let xchain = ezc.XChain(); //returns a reference to the X-Chain used by EZChainJS
 ```
 
