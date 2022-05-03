@@ -151,12 +151,12 @@ There is no hard and fast rule to have the same project structre as demonstrated
 
 Here, `subnet-evm-js` is our node.js project folder. Move to the project directory and install the following dependencies.
 
-* ezchain (3.13.3 or above)
+* @ezclabs/ezchainjs
 * dotenv
 * yargs
 
 ```bash
-npm install --save ezchain dotenv yargs
+npm install --save @ezclabs/ezchainjs dotenv yargs
 ```
 
 ### Configuration and other details
@@ -188,7 +188,7 @@ Always put secret information like the `.env` file restricted to yourself only a
 This code will serve as the helper function for all other functions spread over different files. It will instantiate all the necessary EZChain APIs using EZChainJS and export them for other files to use it. Other files can simply import and re-use. Make a new file `importAPI.js` and paste the following code inside it.
 
 ```javascript
-const { EZChain, BinTools, BN } = require("ezchain")
+const { Avalanche, BinTools, BN } = require("@ezclabs/ezchainjs")
 
 // Importing node details and Private key from the config file.
 const { ip, port, protocol, networkID, privKey } = require('./config.js')
@@ -197,7 +197,7 @@ const { ip, port, protocol, networkID, privKey } = require('./config.js')
 const bintools = BinTools.getInstance();
 
 // EZChain instance
-const ezchain = new EZChain(ip, port, protocol, networkID)
+const ezchain = new Avalanche(ip, port, protocol, networkID)
 
 // Platform and Info API
 const platform = ezchain.PChain()
@@ -336,7 +336,7 @@ The arguments for the EZChainJS API call for `buildAddSubnetValidatorTx()` is ex
 
 ```javascript
 const args = require('yargs').argv;
-const SubnetAuth = require('ezchain').platformvm.SubnetAuth
+const SubnetAuth = require('@ezclabs/ezchainjs').platformvm.SubnetAuth
 const { platform, info, pKeyChain, pAddressStrings, utxoSet, BN } = require('./importAPI.js');
 
 async function addSubnetValidator() {
@@ -415,7 +415,7 @@ Let's import the dependencies by using the following snippet. We are importing `
 
 ```javascript
 const args = require('yargs').argv;
-const SubnetAuth = require('ezchain').platformvm.SubnetAuth
+const SubnetAuth = require('@ezclabs/ezchainjs').platformvm.SubnetAuth
 
 const genesisJSON = require('./genesis.json');
 const { platform, pKeyChain, pAddressStrings, bintools, utxoSet } = require('./importAPI');
