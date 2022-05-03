@@ -18,7 +18,7 @@ In this tutorial, we’ll go through an example Fuji workflow to show how it can
 ## Set up Fuji network on Metamask (optional)
 * **Network Name**: EZChain FUJI C-Chain
 * **New RPC URL**: [https://testnet-api.ezchain.com/ext/bc/C/rpc](https://testnet-api.ezchain.com/ext/bc/C/rpc)
-* **ChainID**: `2163`
+* **ChainID**: `2613`
 * **Symbol**: `EZC`
 * **Explorer**: [https://testnet-cchain-explorer.ezchain.com/](https://testnet-cchain-explorer.ezchain.com/)
 

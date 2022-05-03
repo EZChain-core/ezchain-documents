@@ -16,7 +16,7 @@ module.exports = {
   networks: {
     fuji: {
       url: "https://testnet-api.ezchain.com/ext/bc/C/rpc",
-      chainId: 2163,
+      chainId: 2613,
       accounts: [PRIVATE_KEY],
     },
     mainnet: {

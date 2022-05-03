@@ -29,7 +29,7 @@ Now, we need to set these boxes with correct values.
   * **Local Testnet:** [http://localhost:9650/ext/bc/C/rpc](http://localhost:9650/ext/bc/C/rpc) 
 * **ChainID**:
   * **Mainnet:** `2612` 
-  * **Fuji Testnet:** `2163` 
+  * **Fuji Testnet:** `2613` 
   * **Local Testnet:** `43112` 
 * **Symbol**: EZC
 * **Explorer**:

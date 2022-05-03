@@ -62,7 +62,7 @@ const HTTPSProvider = new ethers.providers.JsonRpcProvider(nodeURL);
 To estimate the max fee and max priority fee on the network, we will be using C-Chain APIs. We can use the C-Chain through an EZChainJS instance connected to the network as shown below.
 ```javascript
 // For estimating max fee and priority fee using CChain APIs
-const chainId = 2163;
+const chainId = 2613;
 const ezchain = new EZChain('testnet-api.ezchain.com', undefined, 'https', chainId);
 const cchain = ezchain.CChain();
 ```

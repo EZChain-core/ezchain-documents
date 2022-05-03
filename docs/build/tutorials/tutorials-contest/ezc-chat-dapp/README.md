@@ -68,7 +68,7 @@ Log in to MetaMask -> Click the Network drop-down -> Select Custom RPC
 
 * **Network Name**: EZChain FUJI C-Chain
 * **New RPC URL**: [https://testnet-api.ezchain.com/ext/bc/C/rpc](https://testnet-api.ezchain.com/ext/bc/C/rpc)
-* **ChainID**: `2163`
+* **ChainID**: `2613`
 * **Symbol**: `C-EZC`
 * **Explorer**: [https://testnet-cchain-explorer.ezchain.com](https://testnet-cchain-explorer.ezchain.com/)
 

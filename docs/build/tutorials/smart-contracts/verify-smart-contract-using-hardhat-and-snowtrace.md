@@ -141,7 +141,7 @@ export default {
     fuji: {
       url: 'https://testnet-api.ezchain.com/ext/bc/C/rpc',
       gasPrice: 225000000000,
-      chainId: 2163,
+      chainId: 2613,
       accounts: { mnemonic: MNEMONIC },
     },
     mainnet: {

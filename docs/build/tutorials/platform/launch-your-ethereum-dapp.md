@@ -41,7 +41,7 @@ You can access C-Chain through MetaMask, by defining a custom network. Go to Met
 
 * **Network Name**: EZChain FUJI C-Chain
 * **New RPC URL**: [https://testnet-api.ezchain.com/ext/bc/C/rpc](https://testnet-api.ezchain.com/ext/bc/C/rpc)
-* **ChainID**: `2163`
+* **ChainID**: `2613`
 * **Symbol**: `EZC`
 * **Explorer**: [https://testnet-cchain-explorer.ezchain.com/](https://testnet-cchain-explorer.ezchain.com/)
 

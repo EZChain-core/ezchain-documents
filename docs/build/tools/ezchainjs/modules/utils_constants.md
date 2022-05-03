@@ -1636,7 +1636,7 @@ ___
 
 ###  chainID
 
-• **chainID**: *number* = 2163
+• **chainID**: *number* = 2613
 
 *Defined in [src/utils/constants.ts:410](https://github.com/EZChain-core/ezchainjs/blob/5511161/src/utils/constants.ts#L410)*
 

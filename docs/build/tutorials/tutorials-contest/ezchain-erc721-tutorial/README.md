@@ -56,7 +56,7 @@ module.exports = {
         return new HDWalletProvider({
           mnemonic: process.env.MNEMONIC,
           providerOrUrl: `https://ezchain--fuji--rpc.datahub.figment.io/apikey/${process.env.APIKEY}/ext/bc/C/rpc`,
-          chainId: '2163'
+          chainId: '2613'
         })
       },
       network_id: "*",

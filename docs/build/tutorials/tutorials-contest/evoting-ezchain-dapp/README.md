@@ -617,7 +617,7 @@ Don't forget to set up Metamask with Fuji testnet and also fund the account with
 | :--- | :--- |
 | Network Name | EZChain Fuji |
 | New RPC URL | [https://testnet-api.ezchain.com/ext/bc/C/rpc](https://testnet-api.ezchain.com/ext/bc/C/rpc) |
-| Chain ID | 2163 |
+| Chain ID | 2613 |
 | Currency Symbol | EZC-C |
 | Block Explorer URL | [https://testnet-cchain-explorer.ezchain.com](https://testnet-cchain-explorer.ezchain.com) |
 

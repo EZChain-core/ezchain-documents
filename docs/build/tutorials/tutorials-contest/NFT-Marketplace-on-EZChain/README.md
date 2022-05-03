@@ -613,7 +613,7 @@ FUJI Testnet Settings:
 
 - Network Name: EZChain FUJI C-Chain
 - New RPC URL: https://testnet-api.ezchain.com/ext/bc/C/rpc
-- ChainID: 2163
+- ChainID: 2613
 - Symbol: EZC
 - Explorer: https://testnet-cchain-explorer.ezchain.com
 
@@ -626,7 +626,7 @@ networks:{
     ...
     fuji: {
       url: "https://testnet-api.ezchain.com/ext/bc/C/rpc",
-      chainId: 2163,
+      chainId: 2613,
       accounts: [
         "PRIVATE_KEY",
       ],

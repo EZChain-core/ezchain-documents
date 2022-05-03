@@ -175,7 +175,7 @@ module.exports = {
 }
 ```
 
-We have `networkID: 1337` for the local network. Mainnet has `2612`, and Fuji has `2163`. Put the port here, that you have copied earlier from the ANR's output. Rest all should remain the same. Here we are also accessing `PRIVATEKEY` from the `.env` file. So make sure to include your funded private key in the `.env` file which was provided by ANR.
+We have `networkID: 1337` for the local network. Mainnet has `2612`, and Fuji has `2613`. Put the port here, that you have copied earlier from the ANR's output. Rest all should remain the same. Here we are also accessing `PRIVATEKEY` from the `.env` file. So make sure to include your funded private key in the `.env` file which was provided by ANR.
 
 ```env
 PRIVATEKEY="PrivateKey-ewoqjP7PxY4yr3iLTpLisriqt94hdyDFNgchSxGGztUrTXtNN"
