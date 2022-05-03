@@ -11,139 +11,146 @@ In this tutorial, we will:
 
 * Install and run an EZChain node
 * Connect to EZChain
-* Send EZC
-* Add your node to the validator set
-
-:::caution
-If your issue isn’t addressed in the FAQ, come ask for help in the [EZChain Telegram](https://t.me/EZChainOfficia)! We will work to get you through any obstacles.
-:::
-
-:::info
-If you're interested in using a third-party service to host your node or run a validator, [check out the options](https://docs.ezchain.com/learn/community#blockchain-infrastructure-and-node-services).
-:::
-
-This tutorial is primarily geared toward developers and people interested in how the EZChain Platform works. If you're just interested in setting up a node for staking, you may want to follow the [Set Up EZChain Node With Installer](set-up-node-with-installer.md) tutorial instead. Installer automates the installation process and sets it up as a system service, which is recommended for unattended operation. You may also try things out by following this tutorial first, and then later set up the node using the installer as a permanent solution.
 
 ## Requirements
 
 EZChain is an incredibly lightweight protocol, so nodes can run on commodity hardware. Note that as network usage increases, hardware requirements may change.
 
-* CPU: Equivalent of 8 AWS vCPU
-* RAM: 16 GiB
-* Storage: 512 GiB
-* OS: Ubuntu 18.04/20.04 or MacOS &gt;= Catalina
+* CPU: Equivalent of 4 vCPU
+* RAM: 8 GiB
+* Storage: 80 GiB
+* OS: Ubuntu 20.04
 
-## Run an EZChain Node and Send Funds
+## Run an EZChain Node
+Let’s install ezcgo, the Go implementation of an EZChain node, and connect to the EZChain Network
+Download EZCGo
+The node is a binary program, So you can download the pre-built binary for easier setup the node
 
-Let’s install EZChainGo, the Go implementation of an EZChain node, and connect to the EZChain Public Testnet.
 
-### Download EZChainGo
+### Create the folder and change current path to this folder to download ezcgo binaries:
 
-The node is a binary program. You can either download the source code and then build the binary program, or you can download the pre-built binary. You don’t need to do both.
-
-Downloading [pre-built binary](run-ezchain-node.md#binary) is easier and recommended if you're just looking to run your own node and stake on it.
-
-Building the node from source is recommended if you're a developer looking to experiment and build on EZChain.
-
-#### **Source Code**
-
-If you want to build the node from source, you're first going to need to install Go 1.17.9 or later. Follow the instructions [here](https://golang.org/doc/install).
-
-Run `go version`. **It should be 1.17.9 or above.** Run `echo $GOPATH`. **It should not be empty.**
-
-Download the EZChainGo repository into your `$GOPATH`:
-
-```sh
-cd $GOPATH
-mkdir -p src/github.com/EZChain-core
-git clone git@github.com:EZChain-core/ezcgo.git
-cd ezcgo
+```
+mkdir -p /opt/ezchain && cd /opt/ezchain
 ```
 
-Note: This checkouts to the master branch. For the latest stable version, checkout the latest tag.
+### Download the binary of ezcgo with command:
 
-Build EZChainGo:
+- For Mainnet:
 
-```sh
-./scripts/build.sh
+```
+wget https://ezchain-binary.sgp1.digitaloceanspaces.com/ezcgo-v1.1.tar.gz
+
 ```
 
-The binary, named `ezcgo`, is in `ezcgo/build`. If you've followed the instructions so far, this will be within your `$GOPATH` at: `$GOPATH/src/github.com/EZChain-core/ezcgo/build`.
+- For testnet Fuji:
 
-To begin running EZChainGo, run the following (hit Ctrl+C to stop your node):
-
-```sh
-./build/ezcgo
+```
+wget https://ezchain-binary.sgp1.digitaloceanspaces.com/testnet-ezcgo-v1.0.tar.gz
 ```
 
-#### **Binary**
+You can use MD5 checksum to check the integrity of the download file, type the follow command on CLI:
 
-If you want to download a pre-built binary instead of building it yourself, go to our [releases page](https://github.com/EZChain-core/ezcgo/releases), and select the release you want (probably the latest one.)
+```
+md5sum ezcgo-v1.1.tar.gz 
+```
 
-Under `Assets`, select the appropriate file.
+Output must be same here:
 
-For MacOS: Download: `ezcgo-macos-<VERSION>.zip`
-Unzip: `unzip ezcgo-macos-<VERSION>.zip` The resulting folder, `ezcgo-<VERSION>`, contains the binaries.
+```
+e8545b286901c6bda1e5a73b6e7d2176  ezcgo-v1.1.tar.gz
+```
 
-For Linux on PCs or cloud providers: Download: `ezcgo-linux-amd64-<VERSION>.tar.gz`
-Unzip: `tar -xvf ezcgo-linux-amd64-<VERSION>.tar.gz`
-The resulting folder, `ezcgo-<VERSION>-linux`, contains the binaries.
+Same command for testnet.
 
-For Linux on RaspberryPi4 or similar Arm64-based computers: Download: `ezcgo-linux-arm64-<VERSION>.tar.gz`
-Unzip: `tar -xvf ezcgo-linux-arm64-<VERSION>.tar.gz`
-The resulting folder, `ezcgo-<VERSION>-linux`, contains the binaries.
+### Extract the ezcgo binaries compress file:
+
+- For Mainnet
+
+```
+tar xvf ezcgo-v1.1.tar.gz
+
+```
+
+- For Testnet Fuji:
+
+```
+tar xvf testnet-ezcgo-v1.0.tar.gz
+```
+
+When extract success, you will see the ezcgo binary and the plugins folder - that contain the binary of evm:
 
 ### Start a Node, and Connect to EZChain
 
-If you built from source:
+Start your own EZChain node with command:
 
-```sh
-./build/ezcgo
+- For Mainnet:
+
+```
+./ezcgo --public-ip=<your_server_public_ip> --http-host 0.0.0.0 --http-port=9650 --staking-port=9651 --db-dir=db/node --log-level=info --api-admin-enabled=true --http-allowed-origins='*'
+
 ```
 
-If you are using the pre-built binaries on MacOS:
+- For Testnet Fuji:
 
-```sh
-./ezcgo-<VERSION>/build/ezcgo
+```
+./ezcgo --public-ip=<your_server_public_ip> --http-host 0.0.0.0 --http-port=9650 --staking-port=9651 --network-id=fuji --db-dir=db/node --log-level=info --api-admin-enabled=true --http-allowed-origins='*'
 ```
 
-If you are using the pre-built binaries on Linux:
+When the node starts, it has to sync up (catch up with the rest of the network). You will see logs about syncing. When a given chain is done syncing, it will print a log like this:
 
-```sh
-./ezcgo-<VERSION>-linux/ezcgo
+```
+INFO [03-21|05:22:32.031] <X Chain> snow/engine/ezcgo/transitive.go#292: bootstrapping finished with 1 vertices in the accepted frontier
+INFO [03-21|05:22:32.044] <P Chain> snow/engine/snowman/transitive.go#329: bootstrapping finished with 8ndyi1P6SMdcCbgCk3RpHk3Bx6NumZk6ghrzooRSKhLqXE9Tr as the last accepted block
+INFO [03-21|05:22:32.045] <C Chain> snow/engine/snowman/transitive.go#329: bootstrapping finished with 2BaVsniDKhYWfxemEPFS2eED923nc4jK328yiAinCQXFrG3H4u as the last accepted block
 ```
 
-When the node starts, it has to bootstrap (catch up with the rest of the network). You will see logs about bootstrapping. When a given chain is done bootstrapping, it will print a log like this:
+To check if a given chain is done syncing, in another terminal window call info.isBootstrapped by copying and pasting the following command:
 
-`INFO [06-07|19:54:06] <X Chain> /snow/engine/ezchain/transitive.go#80: bootstrapping finished with 1 vertices in the accepted frontier`
-
-To check if a given chain is done bootstrapping, in another terminal window call [`info.isBootstrapped`](../../ezcgo-apis/info.md#infoisbootstrapped) by copying and pasting the following command:
-
-```sh
+```
 curl -X POST --data '{
-    "jsonrpc":"2.0",
-    "id"     :1,
-    "method" :"info.isBootstrapped",
-    "params": {
-        "chain":"X"
-    }
+   "jsonrpc":"2.0",
+   "id"     :1,
+   "method" :"info.isBootstrapped",
+   "params": {
+       "chain":"X"
+   }
 }' -H 'content-type:application/json;' 127.0.0.1:9650/ext/info
 ```
 
-If this returns `true`, the chain is bootstrapped. If you make an API call to a chain that is not done bootstrapping, it will return `API call rejected because chain is not done bootstrapping`. If your node never finishes bootstrapping, follow [this FAQ](http://support.ezchain.com/en/articles/4593908-is-my-node-done-bootstrapping), if you are still experiencing issues please contact us on [Telegram.](https://t.me/EZChainOfficia/)
+If this returns true, the chain is synced with the network.
 
-Your node is running and connected now. If you want to use your node as a validator on the main net, check out [this tutorial](add-a-validator.md#add-a-validator-with-ezchain-wallet) to find out how to add your node as a validator using the web wallet.
+```
+{"jsonrpc":"2.0","result":{"isBootstrapped":true},"id":1}
+```
 
-You can use `Ctrl + C` to kill the node.
+If you make an API call to a chain that is not done bootstrapping, it will return API call rejected because chain is not done syncing.
 
-If you want to experiment and play with your node, read on.
+Your node is running and connected now. 
 
-To be able to make API calls to your node from other machines, when starting up the node include argument `--http-host=` (e.g. `./build/ezcgo --http-host=`)
+You can use Ctrl + C to stop this node.
 
-To connect to the Fuji Testnet instead of the main net, use argument `--network-id=fuji`. You can get funds on the Testnet from the [faucet.](https://testnet-faucet.ezchain.com/)
+You can check your node ID with command:
 
-### What Next?
+```
+curl --location --request POST '127.0.0.1:9650/ext/info' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "jsonrpc":"2.0",
+    "id"     :1,
+    "method" :"info.getNodeID",
+    "params" :{
+    }
+}'
+```
 
-Now that you've launched your EZChain node, what should you do next?
+Sample response:
 
-Your EZChain node will perform consensus on its own, but it is not yet a validator on the network. This means that the rest of the network will not query your node when sampling the network during consensus. If you want to add your node as a validator, check out [Add a Validator](add-a-validator.md) to take it a step further.
+```
+{
+   "jsonrpc": "2.0",
+   "result": {
+       "nodeID": "NodeID-6JQD1WHeHQiyz9nYnrvJWVQ8rfTV6ybvt"
+   },
+   "id": 1
+}
+```
